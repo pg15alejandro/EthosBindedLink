@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Check
+  - Stone
+  - Dirt
+  - Wood
+  - LeftDoor
+  - DoubleDoor
+  - SwordDungeon
+  - Enemy1
+  - Enemy2
+  - Gallow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Enemy
+  - Player
+  - Chest
+  - PlayerSword
+  - NormalEnemySword
+  - EliteEnemySword
+  - EnvironmentBuilding
+  - Interactables
+  - EliteEnemy
+  - BackCollider
+  - ChestCollider
+  - LeftArmCollider
+  - RightArmCollider
+  - EnemyBackCollider
+  - EnemyChestCollider
+  - EnemyLeftArmCollider
+  - EnemyRightArmCollider
+  - SwordDungeon
+  - ExecutionerBoss
+  - King
+  - Orbs
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

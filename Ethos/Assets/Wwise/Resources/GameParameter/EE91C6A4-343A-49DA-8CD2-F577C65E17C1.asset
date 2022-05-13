@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9ef357ae6f31624d8d56680153f6f6c, type: 3}
+  m_Name: EE91C6A4-343A-49DA-8CD2-F577C65E17C1
+  m_EditorClassIdentifier: 
+  objectName: options_mus_vol
+  id: 3803303607
+  guid: EE91C6A4-343A-49DA-8CD2-F577C65E17C1

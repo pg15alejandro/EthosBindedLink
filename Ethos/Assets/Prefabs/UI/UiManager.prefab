@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3599672177977430854
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3599672177977430852}
+  - component: {fileID: 3599672177977430855}
+  - component: {fileID: 3599672177977430853}
+  - component: {fileID: 6168741611266501196}
+  - component: {fileID: 3571626371064091080}
+  m_Layer: 0
+  m_Name: UiManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3599672177977430852
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3599672177977430854}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 525.8489, y: 243.26994, z: -512}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3599672177977430855
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3599672177977430854}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d07ddae8061c54449a694b9a20defd14, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _GameState: {fileID: 11400000, guid: 22f4ded25da8a0b49b0cc575dd7eda9c, type: 2}
+  _PlayerValue: {fileID: 0}
+  _EventSystem: {fileID: 0}
+  _GameUI: {fileID: 0}
+  _MainMenu: {fileID: 0}
+  _MainFirstOpt: {fileID: 0}
+  _PauseMenu: {fileID: 0}
+  _PauseFirstOpt: {fileID: 0}
+  _OptionsMenu: {fileID: 0}
+  _OptionsFirstOpt: {fileID: 0}
+  _AudioMenu: {fileID: 0}
+  _AudioFirstOpt: {fileID: 0}
+  _VideoMenu: {fileID: 0}
+  _VideoFirstOpt: {fileID: 0}
+  _DebugMenu: {fileID: 0}
+  _DebugFirstOpt: {fileID: 0}
+  _MainMenuScene: 
+  _FirstGameScene: 
+--- !u!114 &3599672177977430853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3599672177977430854}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1ae09bd6923f33478421f57d50c7337, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _PostProcessingVolume: {fileID: 0}
+  _GammaSlider: {fileID: 0}
+  _BrightnessSlider: {fileID: 0}
+--- !u!114 &6168741611266501196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3599672177977430854}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab32030a83b986549867e5aad2462ce6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _EventSystem: {fileID: 0}
+  _OnButton: {fileID: 0}
+  _OffButton: {fileID: 0}
+  _GameState: {fileID: 0}
+--- !u!114 &3571626371064091080
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3599672177977430854}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1779abe9da213684880ce437e7d274e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _Moved: Play_Arcadia_Normal_Swing

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1213102445340445644
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1213102445340445646}
+  - component: {fileID: 1213102445340445645}
+  - component: {fileID: 1213102445340445647}
+  m_Layer: 0
+  m_Name: DebugController
+  m_TagString: Untagged
+  m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1213102445340445646
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1213102445340445644}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1213102445340445645
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1213102445340445644}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00d2da9ae7fe80d4a8bfb1fef2c70d2c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _Resources: {fileID: 11400000, guid: 1375a96d98d35d34a819b069a68fdf4b, type: 2}
+  _DebugMenu: {fileID: 0}
+  _SpawnEnemy: {fileID: 0}
+  _SpawnDummy: {fileID: 0}
+  _PlayerResources: {fileID: 0}
+  _TeleportTo: {fileID: 0}
+  _EssenceInput: {fileID: 0}
+  _HealthInput: {fileID: 0}
+  _StaminaInput: {fileID: 0}
+--- !u!114 &1213102445340445647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1213102445340445644}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01f4234a99a634949828fdda92f161dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _PlayerT: {fileID: 11400000, guid: b965c1f1a61fc714c85da68b911d92a4, type: 2}
+  _SwordEnemy: {fileID: 1578616660113420882, guid: f142e117f9bf0e2409811cf872811d9a,
+    type: 3}
+  _SwordDummy: {fileID: 739994825949908512, guid: 573ea8a9adefed149ac1cf8663b6d3a9,
+    type: 3}

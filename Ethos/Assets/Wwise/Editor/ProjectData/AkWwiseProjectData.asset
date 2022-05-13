@@ -1,0 +1,3503 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c33b234f861da884d8bc4463eee5e5b5, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: a88abe33f35f2d429920e35465c3544f
+    GuidInternal: 
+    m_lastTime: -8586290341118771649
+    List: []
+  - PhysicalPath: Virtual Acoustics\Factory Reflect Acoustic Textures.wwu
+    ParentPhysicalPath: 
+    guid: 6b663d46a83ca54f8b4a5fef12b883f6
+    GuidInternal: 
+    m_lastTime: -8586290341118711699
+    List:
+    - name: Acoustic_Banner
+      guid: f2532d2fccda8e408b8898b1b52a26d6
+      id: 4168643977
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Acoustic_Banner
+        ObjectType: 15
+      Path: Factory Reflect Acoustic Textures\Textures\Acoustic_Banner
+    - name: Anechoic
+      guid: 32c20a8be202de4ebeacfdd1a900e3ed
+      id: 1873957695
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Anechoic
+        ObjectType: 15
+      Path: Factory Reflect Acoustic Textures\Textures\Anechoic
+    - name: Brick
+      guid: a9a586b004f2534ca838bdb18b18f6d6
+      id: 504532776
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Brick
+        ObjectType: 15
+      Path: Factory Reflect Acoustic Textures\Textures\Brick
+    - name: Carpet
+      guid: 8975223456dc604296c4b9f4b669092b
+      id: 2412606308
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Carpet
+        ObjectType: 15
+      Path: Factory Reflect Acoustic Textures\Textures\Carpet
+    - name: Concrete
+      guid: 001cf85c9628e04aaf7c3080bdaba682
+      id: 841620460
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Concrete
+        ObjectType: 15
+      Path: Factory Reflect Acoustic Textures\Textures\Concrete
+    - name: Cork_Tiles
+      guid: 19c9d2305f92434189063dbb3c4ae5e2
+      id: 3195498748
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Cork_Tiles
+        ObjectType: 15
+      Path: Factory Reflect Acoustic Textures\Textures\Cork_Tiles
+    - name: Curtains
+      guid: 339ee6f8975c6849b508a1535f2d66e8
+      id: 2928161104
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Curtains
+        ObjectType: 15
+      Path: Factory Reflect Acoustic Textures\Textures\Curtains
+    - name: Drywall
+      guid: f4e3a4680b4c8746a8b8a84db93dbc8f
+      id: 3670307564
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Drywall
+        ObjectType: 15
+      Path: Factory Reflect Acoustic Textures\Textures\Drywall
+    - name: Fabric
+      guid: 32d581836edbed4ea7a3bc7b0a0b8ba8
+      id: 1970351858
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Fabric
+        ObjectType: 15
+      Path: Factory Reflect Acoustic Textures\Textures\Fabric
+    - name: Mountain
+      guid: 313793c51a00b44a98dd9b033a8c8eab
+      id: 513139656
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Mountain
+        ObjectType: 15
+      Path: Factory Reflect Acoustic Textures\Textures\Mountain
+    - name: Tile
+      guid: c4da82a82a13b747ba9db9907ba29cc0
+      id: 2637588553
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Tile
+        ObjectType: 15
+      Path: Factory Reflect Acoustic Textures\Textures\Tile
+    - name: Wood
+      guid: 96bcff1fe76f9e48ba6c7c14a71391ae
+      id: 2058049674
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Wood
+        ObjectType: 15
+      Path: Factory Reflect Acoustic Textures\Textures\Wood
+    - name: Wood_Bright
+      guid: e5d1857ba2c1634e9a13cec54b641adc
+      id: 4262522749
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Wood_Bright
+        ObjectType: 15
+      Path: Factory Reflect Acoustic Textures\Textures\Wood_Bright
+    - name: Wood_Deep
+      guid: 8e474652dac50c4ea0dec98d1479529a
+      id: 1755085759
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Wood_Deep
+        ObjectType: 15
+      Path: Factory Reflect Acoustic Textures\Textures\Wood_Deep
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 34c4ab3abbc6db418db1093718a6a9cb
+    GuidInternal: 
+    m_lastTime: -8586269316073688317
+    List:
+    - name: A_Dungeon
+      guid: 139c43871a0da04aa302be31780dda63
+      id: 1727362057
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: A_Dungeon
+        ObjectType: 1
+      Path: Default Work Unit\Master Audio Bus\A_Dungeon
+    - name: B_Stairs
+      guid: 257865be3e19d843bd7db1bce02c048b
+      id: 3148447906
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: B_Stairs
+        ObjectType: 1
+      Path: Default Work Unit\Master Audio Bus\B_Stairs
+    - name: C_Enclosure
+      guid: 98e812889244ea4d98894acde2217da3
+      id: 3029014325
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: C_Enclosure
+        ObjectType: 1
+      Path: Default Work Unit\Master Audio Bus\C_Enclosure
+    - name: D_Patio
+      guid: 2b0a15615f6fab42a19991d91372df33
+      id: 3408026841
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: D_Patio
+        ObjectType: 1
+      Path: Default Work Unit\Master Audio Bus\D_Patio
+    - name: E_Armory
+      guid: 12ce5aee69d42545af5a4743381dd76c
+      id: 2371248795
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: E_Armory
+        ObjectType: 1
+      Path: Default Work Unit\Master Audio Bus\E_Armory
+    - name: F_Basement_Hallway
+      guid: d3b5006bf715754d8aa456fa60dc0b0a
+      id: 4265980988
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: F_Basement_Hallway
+        ObjectType: 1
+      Path: Default Work Unit\Master Audio Bus\F_Basement_Hallway
+    - name: G_Lower_Courtyard
+      guid: e48c8e93b3b99c4c95de123c5fae4482
+      id: 1938982042
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: G_Lower_Courtyard
+        ObjectType: 1
+      Path: Default Work Unit\Master Audio Bus\G_Lower_Courtyard
+    - name: H_Upper_Patio
+      guid: 0d1f868fc0217b4b93de8785bd086182
+      id: 2579410140
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: H_Upper_Patio
+        ObjectType: 1
+      Path: Default Work Unit\Master Audio Bus\H_Upper_Patio
+    - name: I_Kings_Chamber
+      guid: 2da5f14622b4e84b8bf8a79f7c912c61
+      id: 2692259736
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: I_Kings_Chamber
+        ObjectType: 1
+      Path: Default Work Unit\Master Audio Bus\I_Kings_Chamber
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 7a73a4971c648245a200507e993e5bbc
+    GuidInternal: 
+    m_lastTime: -8586290341119241399
+    List: []
+  - PhysicalPath: SoundBanks\Ethos.wwu
+    ParentPhysicalPath: 
+    guid: 7d5d6df871d94b499968b0366b84bc78
+    GuidInternal: 
+    m_lastTime: -8586269436825260935
+    List:
+    - name: Ethos_SB
+      guid: 2fbd70be9518754bafad700ce244c25c
+      id: 2776719388
+      PathAndIcons:
+      - ElementName: Ethos
+        ObjectType: 12
+      - ElementName: Ethos_SB
+        ObjectType: 7
+      Path: Ethos\Ethos_SB
+  EventWwu:
+  - PhysicalPath: Events\Amb.wwu
+    ParentPhysicalPath: 
+    guid: 7f860eaca2f6b748b7a7ae4c0c27a661
+    GuidInternal: 
+    m_lastTime: -8586269437049093071
+    List:
+    - name: Play_Ethos_Amb
+      guid: 849d18004bfd454e8ca6bcdfd7a8bcf2
+      id: 3817855576
+      PathAndIcons:
+      - ElementName: Amb
+        ObjectType: 12
+      - ElementName: Amb
+        ObjectType: 4
+      - ElementName: Play_Ethos_Amb
+        ObjectType: 3
+      Path: Amb\Amb\Play_Ethos_Amb
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Ext_Amb
+      guid: 6147de9ac5945349a4860c4f70ccfcd7
+      id: 3900686338
+      PathAndIcons:
+      - ElementName: Amb
+        ObjectType: 12
+      - ElementName: Amb
+        ObjectType: 4
+      - ElementName: Old_Events
+        ObjectType: 4
+      - ElementName: Play_Ext_Amb
+        ObjectType: 3
+      Path: Amb\Amb\Old_Events\Play_Ext_Amb
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Int_Amb_01
+      guid: 514ea8c4ba94824692937d104184f7cb
+      id: 4188168502
+      PathAndIcons:
+      - ElementName: Amb
+        ObjectType: 12
+      - ElementName: Amb
+        ObjectType: 4
+      - ElementName: Old_Events
+        ObjectType: 4
+      - ElementName: Play_Int_Amb_01
+        ObjectType: 3
+      Path: Amb\Amb\Old_Events\Play_Int_Amb_01
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Int_Amb_02
+      guid: 76e400b6febdda4898bb6cbb4fa74444
+      id: 4188168501
+      PathAndIcons:
+      - ElementName: Amb
+        ObjectType: 12
+      - ElementName: Amb
+        ObjectType: 4
+      - ElementName: Old_Events
+        ObjectType: 4
+      - ElementName: Play_Int_Amb_02
+        ObjectType: 3
+      Path: Amb\Amb\Old_Events\Play_Int_Amb_02
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Stop_Ethos_Amb
+      guid: 1890209c8ef0cf4d86365f2e56461983
+      id: 4089100674
+      PathAndIcons:
+      - ElementName: Amb
+        ObjectType: 12
+      - ElementName: Amb
+        ObjectType: 4
+      - ElementName: Stop_Ethos_Amb
+        ObjectType: 3
+      Path: Amb\Amb\Stop_Ethos_Amb
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Stop_Ext_Amb
+      guid: 1e37457c3c3ab64ab27fe5711d2193c2
+      id: 2545123420
+      PathAndIcons:
+      - ElementName: Amb
+        ObjectType: 12
+      - ElementName: Amb
+        ObjectType: 4
+      - ElementName: Old_Events
+        ObjectType: 4
+      - ElementName: Stop_Ext_Amb
+        ObjectType: 3
+      Path: Amb\Amb\Old_Events\Stop_Ext_Amb
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Stop_Int_Amb_01
+      guid: 7db729aff8df9d448ae5396172564e49
+      id: 1286230956
+      PathAndIcons:
+      - ElementName: Amb
+        ObjectType: 12
+      - ElementName: Amb
+        ObjectType: 4
+      - ElementName: Old_Events
+        ObjectType: 4
+      - ElementName: Stop_Int_Amb_01
+        ObjectType: 3
+      Path: Amb\Amb\Old_Events\Stop_Int_Amb_01
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Stop_Int_Amb_02
+      guid: fec91452e249c24cae631e1407e3b9b8
+      id: 1286230959
+      PathAndIcons:
+      - ElementName: Amb
+        ObjectType: 12
+      - ElementName: Amb
+        ObjectType: 4
+      - ElementName: Old_Events
+        ObjectType: 4
+      - ElementName: Stop_Int_Amb_02
+        ObjectType: 3
+      Path: Amb\Amb\Old_Events\Stop_Int_Amb_02
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+  - PhysicalPath: Events\Arcadia.wwu
+    ParentPhysicalPath: 
+    guid: bb0515401a685a40a9272ad18eec12f0
+    GuidInternal: 
+    m_lastTime: -8586269437049003124
+    List:
+    - name: Arcadia_Death
+      guid: 7f449f47662dda4ab474015a825f3dc9
+      id: 2234814545
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: Arcadia_Death
+        ObjectType: 3
+      Path: Arcadia\Arcadia\VO\Arcadia_Death
+      maxAttenuation: 0
+      maxDuration: 3.669333
+      minDuration: 0.501333
+    - name: Arcadia_Idle
+      guid: d5e6c42f031c974093a94bac69fc1a65
+      id: 1119990047
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: Arcadia_Idle
+        ObjectType: 3
+      Path: Arcadia\Arcadia\VO\Arcadia_Idle
+      maxAttenuation: 0
+      maxDuration: 2.016
+      minDuration: 0.341333
+    - name: Arcadia_VO_GK
+      guid: fa9cef5c26ef0b45acf11bc842785315
+      id: 4060388897
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: Got_Key
+        ObjectType: 4
+      - ElementName: Arcadia_VO_GK
+        ObjectType: 3
+      Path: Arcadia\Arcadia\VO\Got_Key\Arcadia_VO_GK
+      maxAttenuation: 0
+      maxDuration: 3.111479
+      minDuration: 3.111479
+    - name: Arcadia_VO_LD
+      guid: 69a44c0ba59ba64a96a4955214ad6113
+      id: 3909390459
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: Locked_Door
+        ObjectType: 4
+      - ElementName: Arcadia_VO_LD
+        ObjectType: 3
+      Path: Arcadia\Arcadia\VO\Locked_Door\Arcadia_VO_LD
+      maxAttenuation: 0
+      maxDuration: 0.719833
+      minDuration: 0.719833
+    - name: Play_Absorbing_Orbs
+      guid: d7ab64d7cef33d45ae6d8c9ba6eab626
+      id: 538046188
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Movements
+        ObjectType: 4
+      - ElementName: Abosbing_Orbs
+        ObjectType: 4
+      - ElementName: Play_Absorbing_Orbs
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Movements\Abosbing_Orbs\Play_Absorbing_Orbs
+      maxAttenuation: 0
+      maxDuration: 3.801813
+      minDuration: 3.634979
+    - name: Play_Arcadia_Block
+      guid: d1e4c32b16039b48bcccfbca0996ead4
+      id: 4059295781
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Block
+        ObjectType: 4
+      - ElementName: Play_Arcadia_Block
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Combat\Block\Play_Arcadia_Block
+      maxAttenuation: 0
+      maxDuration: 0.477187
+      minDuration: 0.3298
+    - name: Play_Arcadia_Bodyfall
+      guid: 8074235d6598e146bcde71dbd1e03452
+      id: 3116925321
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Movements
+        ObjectType: 4
+      - ElementName: Body
+        ObjectType: 4
+      - ElementName: Play_Arcadia_Bodyfall
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Movements\Body\Play_Arcadia_Bodyfall
+      maxAttenuation: 0
+      maxDuration: 0.605417
+      minDuration: 0.233333
+    - name: Play_Arcadia_Footsteps
+      guid: 1dbbb453bca72d4daf246e1fca44123a
+      id: 3742755243
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Movements
+        ObjectType: 4
+      - ElementName: Feet
+        ObjectType: 4
+      - ElementName: Play_Arcadia_Footsteps
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Movements\Feet\Play_Arcadia_Footsteps
+      maxAttenuation: 0
+      maxDuration: 0.624393
+      minDuration: 0.147574
+    - name: Play_Arcadia_Kneel
+      guid: 38dc57d02c512543b7a1aee6be353f7d
+      id: 3301447653
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Movements
+        ObjectType: 4
+      - ElementName: Body
+        ObjectType: 4
+      - ElementName: Play_Arcadia_Kneel
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Movements\Body\Play_Arcadia_Kneel
+      maxAttenuation: 0
+      maxDuration: 0.771479
+      minDuration: 0.2
+    - name: Play_Arcadia_Knockback
+      guid: def6bf9e6e684e4db3fd963be07a455b
+      id: 726273951
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Abilities
+        ObjectType: 4
+      - ElementName: Knockback
+        ObjectType: 4
+      - ElementName: Play_Arcadia_Knockback
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Combat\Abilities\Knockback\Play_Arcadia_Knockback
+      maxAttenuation: 0
+      maxDuration: 2.731324
+      minDuration: 1.544224
+    - name: Play_Arcadia_Normal_Swing
+      guid: 0ccd0f8b6c22af49b166fd5575daddbe
+      id: 568346932
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Attack
+        ObjectType: 4
+      - ElementName: Play_Arcadia_Normal_Swing
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Combat\Attack\Play_Arcadia_Normal_Swing
+      maxAttenuation: 0
+      maxDuration: 1.5
+      minDuration: 0.242667
+    - name: Play_Arcadia_Parry_1st
+      guid: ffe8b92b7bdac540a1627c926e13adbb
+      id: 3978832357
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Parry
+        ObjectType: 4
+      - ElementName: Play_Arcadia_Parry_1st
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Combat\Parry\Play_Arcadia_Parry_1st
+      maxAttenuation: 0
+      maxDuration: 1.825918
+      minDuration: 1.31389
+    - name: Play_Arcadia_Parry_2nd
+      guid: daef7c895813b44bbab1d07dc25706b5
+      id: 4197382569
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Parry
+        ObjectType: 4
+      - ElementName: Play_Arcadia_Parry_2nd
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Combat\Parry\Play_Arcadia_Parry_2nd
+      maxAttenuation: 0
+      maxDuration: 0.867383
+      minDuration: 0.47767
+    - name: Play_Arcadia_Parry_3rd
+      guid: 6565eca70d2ebe4e99e5f4475ac817ad
+      id: 4096569760
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Parry
+        ObjectType: 4
+      - ElementName: Play_Arcadia_Parry_3rd
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Combat\Parry\Play_Arcadia_Parry_3rd
+      maxAttenuation: 0
+      maxDuration: 2.900442
+      minDuration: 1.781389
+    - name: Play_Arcadia_Possession_Getout
+      guid: 6bc6dccdd89bde4ba90d440407d43c1b
+      id: 3261435359
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Abilities
+        ObjectType: 4
+      - ElementName: Possession
+        ObjectType: 4
+      - ElementName: Play_Arcadia_Possession_Getout
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Combat\Abilities\Possession\Play_Arcadia_Possession_Getout
+      maxAttenuation: 0
+      maxDuration: 2.506832
+      minDuration: 1.425438
+    - name: Play_Arcadia_Possession_Initial
+      guid: fe0c8ce8ec692b4fb72964c9ccb34cda
+      id: 2892389085
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Abilities
+        ObjectType: 4
+      - ElementName: Possession
+        ObjectType: 4
+      - ElementName: Play_Arcadia_Possession_Initial
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Combat\Abilities\Possession\Play_Arcadia_Possession_Initial
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Arcadia_Possession_IntoEnemy
+      guid: 186d88858a71ac47be99067939ff0559
+      id: 4070396719
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Abilities
+        ObjectType: 4
+      - ElementName: Possession
+        ObjectType: 4
+      - ElementName: Play_Arcadia_Possession_IntoEnemy
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Combat\Abilities\Possession\Play_Arcadia_Possession_IntoEnemy
+      maxAttenuation: 0
+      maxDuration: 5.298956
+      minDuration: 2.982655
+    - name: Play_Arcadia_Scuff_Long
+      guid: f29451eec65fe04f85d6e43a6da7ed5a
+      id: 3724432970
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Movements
+        ObjectType: 4
+      - ElementName: Feet
+        ObjectType: 4
+      - ElementName: Play_Arcadia_Scuff_Long
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Movements\Feet\Play_Arcadia_Scuff_Long
+      maxAttenuation: 0
+      maxDuration: 0.57442
+      minDuration: 0.207876
+    - name: Play_Arcadia_Scuff_Short
+      guid: f972b1fd913e2c4dae15d9c395117501
+      id: 2068041158
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Movements
+        ObjectType: 4
+      - ElementName: Feet
+        ObjectType: 4
+      - ElementName: Play_Arcadia_Scuff_Short
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Movements\Feet\Play_Arcadia_Scuff_Short
+      maxAttenuation: 0
+      maxDuration: 0.374154
+      minDuration: 0.143899
+    - name: Play_Arcadia_Sheath_Weapon
+      guid: 0b65ec84279de7419e2f70b30be746c6
+      id: 2192164416
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Movements
+        ObjectType: 4
+      - ElementName: Weapon
+        ObjectType: 4
+      - ElementName: Play_Arcadia_Sheath_Weapon
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Movements\Weapon\Play_Arcadia_Sheath_Weapon
+      maxAttenuation: 0
+      maxDuration: 0.673477
+      minDuration: 0.534539
+    - name: Play_Arcadia_Spin_Attack
+      guid: 0d48bc9f02544c4795f87901644f04ae
+      id: 4176603605
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Attack
+        ObjectType: 4
+      - ElementName: Play_Arcadia_Spin_Attack
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Combat\Attack\Play_Arcadia_Spin_Attack
+      maxAttenuation: 0
+      maxDuration: 1.5
+      minDuration: 0.980972
+    - name: Play_Arcadia_Takesdamage
+      guid: 4ca615b637d06c4890160dae2864333b
+      id: 77276817
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: TakesDamage
+        ObjectType: 4
+      - ElementName: Play_Arcadia_Takesdamage
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Combat\TakesDamage\Play_Arcadia_Takesdamage
+      maxAttenuation: 0
+      maxDuration: 3.957396
+      minDuration: 1.799562
+    - name: Play_Arcadia_Unsheath_Weapon
+      guid: ef27a5bf2406c947a0953c524f3fee1b
+      id: 1075984259
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Movements
+        ObjectType: 4
+      - ElementName: Weapon
+        ObjectType: 4
+      - ElementName: Play_Arcadia_Unsheath_Weapon
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Movements\Weapon\Play_Arcadia_Unsheath_Weapon
+      maxAttenuation: 0
+      maxDuration: 0.506184
+      minDuration: 0.386056
+    - name: Play_Dodge
+      guid: bbebf12b0a12be4db6c17bae7e47217e
+      id: 3338421947
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Movements
+        ObjectType: 4
+      - ElementName: Dodge(Jump)
+        ObjectType: 4
+      - ElementName: Play_Dodge
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Movements\Dodge(Jump)\Play_Dodge
+      maxAttenuation: 0
+      maxDuration: 1.291393
+      minDuration: 0.832211
+    - name: Play_Drink_Potion
+      guid: 19b9166690717646b1b80d08e1dbd5d9
+      id: 38260142
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Movements
+        ObjectType: 4
+      - ElementName: Drink_Potion
+        ObjectType: 4
+      - ElementName: Play_Drink_Potion
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Movements\Drink_Potion\Play_Drink_Potion
+      maxAttenuation: 0
+      maxDuration: 3.6
+      minDuration: 3.2
+    - name: Play_Pick_up
+      guid: b06f4277d4d1634e9945c42358f925a7
+      id: 964566375
+      PathAndIcons:
+      - ElementName: Arcadia
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Movements
+        ObjectType: 4
+      - ElementName: Pick_up
+        ObjectType: 4
+      - ElementName: Play_Pick_up
+        ObjectType: 3
+      Path: Arcadia\Arcadia\Movements\Pick_up\Play_Pick_up
+      maxAttenuation: 0
+      maxDuration: 2.966667
+      minDuration: 0.351719
+  - PhysicalPath: Events\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 8a87413ff63768429759ff48d0d66991
+    GuidInternal: 
+    m_lastTime: -8586269437048913182
+    List: []
+  - PhysicalPath: Events\Dialogue.wwu
+    ParentPhysicalPath: 
+    guid: 1930c64c3f765e44907c49d27a3c3cdb
+    GuidInternal: 
+    m_lastTime: -8586269437048853215
+    List:
+    - name: CH_Arcadia_008
+      guid: 02a246efefe22d409cc8010c08367851
+      id: 537810613
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 2Castle_Hallway
+        ObjectType: 4
+      - ElementName: CH_Arcadia_008
+        ObjectType: 3
+      Path: Dialogue\Dialogue\2Castle_Hallway\CH_Arcadia_008
+      maxAttenuation: 0
+      maxDuration: 2.089813
+      minDuration: 2.089813
+    - name: CH_Arcadia_009
+      guid: 72d93c48be63be47b715c8f238e97ac9
+      id: 537810612
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 2Castle_Hallway
+        ObjectType: 4
+      - ElementName: CH_Arcadia_009
+        ObjectType: 3
+      Path: Dialogue\Dialogue\2Castle_Hallway\CH_Arcadia_009
+      maxAttenuation: 0
+      maxDuration: 3.883542
+      minDuration: 3.883542
+    - name: CS_VO_001_Arcadia
+      guid: 932db7465d270043b8c752b3c43316be
+      id: 1628860779
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: Cinematic_001
+        ObjectType: 4
+      - ElementName: CS_VO_001_Arcadia
+        ObjectType: 3
+      Path: Dialogue\Dialogue\Cinematic_001\CS_VO_001_Arcadia
+      maxAttenuation: 0
+      maxDuration: 0.84
+      minDuration: 0.84
+    - name: CS_VO_002_Logh
+      guid: d996c617276cd84280d39f106fc5d230
+      id: 3360777909
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: Cinematic_001
+        ObjectType: 4
+      - ElementName: CS_VO_002_Logh
+        ObjectType: 3
+      Path: Dialogue\Dialogue\Cinematic_001\CS_VO_002_Logh
+      maxAttenuation: 0
+      maxDuration: 3.488
+      minDuration: 3.488
+    - name: CS_VO_003_Arcadia
+      guid: 06051239271ca942a0ab9cdcc4cc001c
+      id: 2204820301
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: Cinematic_001
+        ObjectType: 4
+      - ElementName: CS_VO_003_Arcadia
+        ObjectType: 3
+      Path: Dialogue\Dialogue\Cinematic_001\CS_VO_003_Arcadia
+      maxAttenuation: 0
+      maxDuration: 3.445333
+      minDuration: 3.445333
+    - name: CS_VO_004_Logh
+      guid: 6382d84ce33dae409118c5fda0b216b3
+      id: 4202937019
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: Cinematic_001
+        ObjectType: 4
+      - ElementName: CS_VO_004_Logh
+        ObjectType: 3
+      Path: Dialogue\Dialogue\Cinematic_001\CS_VO_004_Logh
+      maxAttenuation: 0
+      maxDuration: 2.442667
+      minDuration: 2.442667
+    - name: CS_VO_005_Arcadia
+      guid: 62b3b86afbbfad4bab35e5c72bc3bc3f
+      id: 542221975
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: Cinematic_001
+        ObjectType: 4
+      - ElementName: CS_VO_005_Arcadia
+        ObjectType: 3
+      Path: Dialogue\Dialogue\Cinematic_001\CS_VO_005_Arcadia
+      maxAttenuation: 0
+      maxDuration: 2.756083
+      minDuration: 2.756083
+    - name: CS_VO_006_Logh
+      guid: c8adcd01a140264793cf185e927f3dc6
+      id: 4035888857
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: Cinematic_001
+        ObjectType: 4
+      - ElementName: CS_VO_006_Logh
+        ObjectType: 3
+      Path: Dialogue\Dialogue\Cinematic_001\CS_VO_006_Logh
+      maxAttenuation: 0
+      maxDuration: 2.673333
+      minDuration: 2.673333
+    - name: CS_VO_007_Arcadia
+      guid: b8d61439be44f147a72c3fb8d2ac27b8
+      id: 58864537
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: Cinematic_001
+        ObjectType: 4
+      - ElementName: CS_VO_007_Arcadia
+        ObjectType: 3
+      Path: Dialogue\Dialogue\Cinematic_001\CS_VO_007_Arcadia
+      maxAttenuation: 0
+      maxDuration: 5.061333
+      minDuration: 5.061333
+    - name: CS_VO_008_Alexeon
+      guid: 37f38fbf05a78d419bde15c8b40135db
+      id: 2114106717
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: Cinematic_001
+        ObjectType: 4
+      - ElementName: CS_VO_008_Alexeon
+        ObjectType: 3
+      Path: Dialogue\Dialogue\Cinematic_001\CS_VO_008_Alexeon
+      maxAttenuation: 0
+      maxDuration: 4.096
+      minDuration: 4.096
+    - name: CS_VO_009_Arcadia
+      guid: 6bccb61f68e00b4cbf8d8b400fa107ae
+      id: 3250296227
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: Cinematic_001
+        ObjectType: 4
+      - ElementName: CS_VO_009_Arcadia
+        ObjectType: 3
+      Path: Dialogue\Dialogue\Cinematic_001\CS_VO_009_Arcadia
+      maxAttenuation: 0
+      maxDuration: 0.808
+      minDuration: 0.808
+    - name: CS_VO_010_Alexeon
+      guid: f9a147543f6ae44bbbbb283945f69d4e
+      id: 834526506
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: Cinematic_001
+        ObjectType: 4
+      - ElementName: CS_VO_010_Alexeon
+        ObjectType: 3
+      Path: Dialogue\Dialogue\Cinematic_001\CS_VO_010_Alexeon
+      maxAttenuation: 0
+      maxDuration: 1.349333
+      minDuration: 1.349333
+    - name: CS_VO_011_Alexeon
+      guid: c22fe307f3a74b438c594219889dcf1b
+      id: 3676016923
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: Cinematic_001
+        ObjectType: 4
+      - ElementName: CS_VO_011_Alexeon
+        ObjectType: 3
+      Path: Dialogue\Dialogue\Cinematic_001\CS_VO_011_Alexeon
+      maxAttenuation: 0
+      maxDuration: 2.789333
+      minDuration: 2.789333
+    - name: CS_VO_012_Arcadia
+      guid: 5606dbe9a3baa94b9836d417c6820fba
+      id: 1438569231
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: Cinematic_001
+        ObjectType: 4
+      - ElementName: CS_VO_012_Arcadia
+        ObjectType: 3
+      Path: Dialogue\Dialogue\Cinematic_001\CS_VO_012_Arcadia
+      maxAttenuation: 0
+      maxDuration: 5.018667
+      minDuration: 5.018667
+    - name: CS_VO_012_Arcadia_Cut
+      guid: 8420f414b63bd34688a60bf4e7233f06
+      id: 429386218
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: Cinematic_001
+        ObjectType: 4
+      - ElementName: CS_VO_012_Arcadia_Cut
+        ObjectType: 3
+      Path: Dialogue\Dialogue\Cinematic_001\CS_VO_012_Arcadia_Cut
+      maxAttenuation: 0
+      maxDuration: 1.74707
+      minDuration: 1.74707
+    - name: CS2_VO_001_King
+      guid: dee5bb142fa55e4e9ebb7fc58548f946
+      id: 1638634443
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: Cinematic_002
+        ObjectType: 4
+      - ElementName: CS2_VO_001_King
+        ObjectType: 3
+      Path: Dialogue\Dialogue\Cinematic_002\CS2_VO_001_King
+      maxAttenuation: 0
+      maxDuration: 10.538667
+      minDuration: 10.538667
+    - name: CS2_VO_002_Arcadia
+      guid: 4f427f0222a84a45927f66ddfac5e156
+      id: 398721128
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: Cinematic_002
+        ObjectType: 4
+      - ElementName: CS2_VO_002_Arcadia
+        ObjectType: 3
+      Path: Dialogue\Dialogue\Cinematic_002\CS2_VO_002_Arcadia
+      maxAttenuation: 0
+      maxDuration: 1.416458
+      minDuration: 1.416458
+    - name: CS2_VO_003_King
+      guid: f96b843c76698c44842214ef49137fe4
+      id: 2212540861
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: Cinematic_002
+        ObjectType: 4
+      - ElementName: CS2_VO_003_King
+        ObjectType: 3
+      Path: Dialogue\Dialogue\Cinematic_002\CS2_VO_003_King
+      maxAttenuation: 0
+      maxDuration: 7.166584
+      minDuration: 7.166584
+    - name: CS2_VO_004_Arcadia
+      guid: bbea11c18fb8ef45af610dafe09f9b5a
+      id: 4048371370
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: Cinematic_002
+        ObjectType: 4
+      - ElementName: CS2_VO_004_Arcadia
+        ObjectType: 3
+      Path: Dialogue\Dialogue\Cinematic_002\CS2_VO_004_Arcadia
+      maxAttenuation: 0
+      maxDuration: 3.250833
+      minDuration: 3.250833
+    - name: CutScene_Death_Logh
+      guid: 600cfd939d022c43abe57ae01e2056ab
+      id: 1375628163
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: Cinematic_001
+        ObjectType: 4
+      - ElementName: CutScene_Death_Logh
+        ObjectType: 3
+      Path: Dialogue\Dialogue\Cinematic_001\CutScene_Death_Logh
+      maxAttenuation: 0
+      maxDuration: 0.348
+      minDuration: 0.348
+    - name: Dungeon_Arcadia_001
+      guid: ed1410e437ca784d8e0916554683333b
+      id: 1634337885
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 1Dungeon
+        ObjectType: 4
+      - ElementName: Dungeon_Arcadia_001
+        ObjectType: 3
+      Path: Dialogue\Dialogue\1Dungeon\Dungeon_Arcadia_001
+      maxAttenuation: 0
+      maxDuration: 3.041833
+      minDuration: 3.041833
+    - name: Dungeon_Arcadia_002
+      guid: 368e078e55264441afb61f7aa4d4c9a4
+      id: 1634337886
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 1Dungeon
+        ObjectType: 4
+      - ElementName: Dungeon_Arcadia_002
+        ObjectType: 3
+      Path: Dialogue\Dialogue\1Dungeon\Dungeon_Arcadia_002
+      maxAttenuation: 0
+      maxDuration: 3.738417
+      minDuration: 3.738417
+    - name: Dungeon_Arcadia_003
+      guid: 76172a4dca309e4f82f89626241155a1
+      id: 1634337887
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 1Dungeon
+        ObjectType: 4
+      - ElementName: Dungeon_Arcadia_003
+        ObjectType: 3
+      Path: Dialogue\Dialogue\1Dungeon\Dungeon_Arcadia_003
+      maxAttenuation: 0
+      maxDuration: 5.061958
+      minDuration: 5.061958
+    - name: Dungeon_Arcadia_004
+      guid: 495d83dcc1b67147870870f87dde997c
+      id: 1634337880
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 1Dungeon
+        ObjectType: 4
+      - ElementName: Dungeon_Arcadia_004
+        ObjectType: 3
+      Path: Dialogue\Dialogue\1Dungeon\Dungeon_Arcadia_004
+      maxAttenuation: 0
+      maxDuration: 3.599104
+      minDuration: 3.599104
+    - name: Dungeon_Arcadia_005
+      guid: c7f31a4b20ef5b438006084eba0bda7f
+      id: 1634337881
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 1Dungeon
+        ObjectType: 4
+      - ElementName: Dungeon_Arcadia_005
+        ObjectType: 3
+      Path: Dialogue\Dialogue\1Dungeon\Dungeon_Arcadia_005
+      maxAttenuation: 0
+      maxDuration: 2.589042
+      minDuration: 2.589042
+    - name: Dungeon_Arcadia_006
+      guid: 4d7894506c48a24cb57f1ebea21bb667
+      id: 1634337882
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 1Dungeon
+        ObjectType: 4
+      - ElementName: Dungeon_Arcadia_006
+        ObjectType: 3
+      Path: Dialogue\Dialogue\1Dungeon\Dungeon_Arcadia_006
+      maxAttenuation: 0
+      maxDuration: 2.159458
+      minDuration: 2.159458
+    - name: Dungeon_Arcadia_011
+      guid: 54d3396ce6a40b49b4757b0069782c07
+      id: 1651115470
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 1Dungeon
+        ObjectType: 4
+      - ElementName: Dungeon_Arcadia_011
+        ObjectType: 3
+      Path: Dialogue\Dialogue\1Dungeon\Dungeon_Arcadia_011
+      maxAttenuation: 0
+      maxDuration: 1.134896
+      minDuration: 1.134896
+    - name: Dungeon_Arcadia_018
+      guid: cfdc313f5b71b244b597b9ae2b18cc77
+      id: 1651115463
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 1Dungeon
+        ObjectType: 4
+      - ElementName: Dungeon_Arcadia_018
+        ObjectType: 3
+      Path: Dialogue\Dialogue\1Dungeon\Dungeon_Arcadia_018
+      maxAttenuation: 0
+      maxDuration: 4.475667
+      minDuration: 4.475667
+    - name: FB_Arcadia_012
+      guid: 96a75a24eb62384e9f96383467cbefc6
+      id: 553605981
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 3First Building
+        ObjectType: 4
+      - ElementName: FB_Arcadia_012
+        ObjectType: 3
+      Path: Dialogue\Dialogue\3First Building\FB_Arcadia_012
+      maxAttenuation: 0
+      maxDuration: 1.073938
+      minDuration: 1.073938
+    - name: FB_Arcadia_013
+      guid: f87b1204094f2f4180413940e27d1edf
+      id: 553605980
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 3First Building
+        ObjectType: 4
+      - ElementName: FB_Arcadia_013
+        ObjectType: 3
+      Path: Dialogue\Dialogue\3First Building\FB_Arcadia_013
+      maxAttenuation: 0
+      maxDuration: 1.846
+      minDuration: 1.846
+    - name: FB_Arcadia_014
+      guid: 8eb93135a30f6546845fae5b6280751b
+      id: 553605979
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 3First Building
+        ObjectType: 4
+      - ElementName: FB_Arcadia_014
+        ObjectType: 3
+      Path: Dialogue\Dialogue\3First Building\FB_Arcadia_014
+      maxAttenuation: 0
+      maxDuration: 1.311937
+      minDuration: 1.311937
+    - name: FB_Arcadia_015
+      guid: dc16ac0d7adedc419df7407341e28298
+      id: 553605978
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 3First Building
+        ObjectType: 4
+      - ElementName: FB_Arcadia_015
+        ObjectType: 3
+      Path: Dialogue\Dialogue\3First Building\FB_Arcadia_015
+      maxAttenuation: 0
+      maxDuration: 3.300146
+      minDuration: 3.300146
+    - name: FinalB_Logh_008
+      guid: 27be69e4a8c6824682530239cedaa07a
+      id: 24061457
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: Final_Battle
+        ObjectType: 4
+      - ElementName: FinalB_Logh_008
+        ObjectType: 3
+      Path: Dialogue\Dialogue\Final_Battle\FinalB_Logh_008
+      maxAttenuation: 0
+      maxDuration: 2.133021
+      minDuration: 2.133021
+    - name: FinalB_Logh_009
+      guid: 3bbb111c04ee2947a385635c837f17ba
+      id: 24061456
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: Final_Battle
+        ObjectType: 4
+      - ElementName: FinalB_Logh_009
+        ObjectType: 3
+      Path: Dialogue\Dialogue\Final_Battle\FinalB_Logh_009
+      maxAttenuation: 0
+      maxDuration: 2.540979
+      minDuration: 2.540979
+    - name: FinalB_Logh_010
+      guid: ab89090eac68f44fa8eed418cb17d68d
+      id: 7283878
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: Final_Battle
+        ObjectType: 4
+      - ElementName: FinalB_Logh_010
+        ObjectType: 3
+      Path: Dialogue\Dialogue\Final_Battle\FinalB_Logh_010
+      maxAttenuation: 0
+      maxDuration: 1.300333
+      minDuration: 1.300333
+    - name: Patio_Arcadia_016
+      guid: 61d72ad867b5444aaf1ddeebc9432fa2
+      id: 313170180
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 4Patio
+        ObjectType: 4
+      - ElementName: Patio_Arcadia_016
+        ObjectType: 3
+      Path: Dialogue\Dialogue\4Patio\Patio_Arcadia_016
+      maxAttenuation: 0
+      maxDuration: 3.645542
+      minDuration: 3.645542
+    - name: Patio_Arcadia_017
+      guid: db7b10cf5be5464b9f1572c52f36bbc7
+      id: 313170181
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 4Patio
+        ObjectType: 4
+      - ElementName: Patio_Arcadia_017
+        ObjectType: 3
+      Path: Dialogue\Dialogue\4Patio\Patio_Arcadia_017
+      maxAttenuation: 0
+      maxDuration: 3.924187
+      minDuration: 3.924187
+    - name: Patio_Arcadia_019
+      guid: c4fc9bfd52e5024a8c68b81bb9331849
+      id: 313170187
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 4Patio
+        ObjectType: 4
+      - ElementName: Patio_Arcadia_019
+        ObjectType: 3
+      Path: Dialogue\Dialogue\4Patio\Patio_Arcadia_019
+      maxAttenuation: 0
+      maxDuration: 1.018458
+      minDuration: 1.018458
+    - name: Patio_Arcadia_020
+      guid: 65e6605dd4ca2046af1bad57e37893af
+      id: 296392623
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 4Patio
+        ObjectType: 4
+      - ElementName: Patio_Arcadia_020
+        ObjectType: 3
+      Path: Dialogue\Dialogue\4Patio\Patio_Arcadia_020
+      maxAttenuation: 0
+      maxDuration: 1.091354
+      minDuration: 1.091354
+    - name: Patio_Arcadia_021
+      guid: 7555a6b50edd8048ac9e4703e8e3ebdf
+      id: 296392622
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 4Patio
+        ObjectType: 4
+      - ElementName: Patio_Arcadia_021
+        ObjectType: 3
+      Path: Dialogue\Dialogue\4Patio\Patio_Arcadia_021
+      maxAttenuation: 0
+      maxDuration: 0.879458
+      minDuration: 0.879458
+    - name: Patio_King_001
+      guid: 32b536659d7d2c48817bf01d6686ecdb
+      id: 870959606
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 4Patio
+        ObjectType: 4
+      - ElementName: Patio_King_001
+        ObjectType: 3
+      Path: Dialogue\Dialogue\4Patio\Patio_King_001
+      maxAttenuation: 0
+      maxDuration: 5.056
+      minDuration: 5.056
+    - name: Patio_King_002
+      guid: 0b1f8a3c36b5be4e93723dff9644b9a3
+      id: 870959605
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 4Patio
+        ObjectType: 4
+      - ElementName: Patio_King_002
+        ObjectType: 3
+      Path: Dialogue\Dialogue\4Patio\Patio_King_002
+      maxAttenuation: 0
+      maxDuration: 4.214188
+      minDuration: 4.214188
+    - name: Patio_King_003
+      guid: 273bb17a65bbd049a1711f2e58e5687e
+      id: 870959604
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 4Patio
+        ObjectType: 4
+      - ElementName: Patio_King_003
+        ObjectType: 3
+      Path: Dialogue\Dialogue\4Patio\Patio_King_003
+      maxAttenuation: 0
+      maxDuration: 4.864313
+      minDuration: 4.864313
+    - name: Patio_King_004
+      guid: 60110d9332d56f48adb03052fb921e6b
+      id: 870959603
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 4Patio
+        ObjectType: 4
+      - ElementName: Patio_King_004
+        ObjectType: 3
+      Path: Dialogue\Dialogue\4Patio\Patio_King_004
+      maxAttenuation: 0
+      maxDuration: 8.782937
+      minDuration: 8.782937
+    - name: Patio_King_005
+      guid: 0dd0509d1d7e6448b2a74c66a300f6e7
+      id: 870959602
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 4Patio
+        ObjectType: 4
+      - ElementName: Patio_King_005
+        ObjectType: 3
+      Path: Dialogue\Dialogue\4Patio\Patio_King_005
+      maxAttenuation: 0
+      maxDuration: 3.327146
+      minDuration: 3.327146
+    - name: Patio_King_006
+      guid: a61c5033cef91549a479a62cbad98492
+      id: 870959601
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 4Patio
+        ObjectType: 4
+      - ElementName: Patio_King_006
+        ObjectType: 3
+      Path: Dialogue\Dialogue\4Patio\Patio_King_006
+      maxAttenuation: 0
+      maxDuration: 4.735479
+      minDuration: 4.735479
+    - name: Patio_King_007
+      guid: ebc35bb390f5c645828be2b830109dde
+      id: 870959600
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 4Patio
+        ObjectType: 4
+      - ElementName: Patio_King_007
+        ObjectType: 3
+      Path: Dialogue\Dialogue\4Patio\Patio_King_007
+      maxAttenuation: 0
+      maxDuration: 5.085958
+      minDuration: 5.085958
+    - name: Patio_Logh_VO
+      guid: f2bcc14e7535d84c977db0263366e795
+      id: 3850992757
+      PathAndIcons:
+      - ElementName: Dialogue
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 4
+      - ElementName: 4Patio
+        ObjectType: 4
+      - ElementName: Patio_Logh_VO
+        ObjectType: 3
+      Path: Dialogue\Dialogue\4Patio\Patio_Logh_VO
+      maxAttenuation: 0
+      maxDuration: 8.969084
+      minDuration: 8.969084
+  - PhysicalPath: Events\Emitters.wwu
+    ParentPhysicalPath: 
+    guid: 3b8c4f582fedcb4c8630e9e2f06d5ec8
+    GuidInternal: 
+    m_lastTime: -8586269437048773239
+    List:
+    - name: Play_Bells
+      guid: 39ae96d491d519438ad98ef165171eda
+      id: 2324519816
+      PathAndIcons:
+      - ElementName: Emitters
+        ObjectType: 12
+      - ElementName: Emitters
+        ObjectType: 4
+      - ElementName: Play_Bells
+        ObjectType: 3
+      Path: Emitters\Emitters\Play_Bells
+      maxAttenuation: 0
+      maxDuration: 19.351542
+      minDuration: 19.351542
+    - name: Play_Door_Close
+      guid: 1676f7c81833b64884ed9ce4a2da0b20
+      id: 2292458263
+      PathAndIcons:
+      - ElementName: Emitters
+        ObjectType: 12
+      - ElementName: Emitters
+        ObjectType: 4
+      - ElementName: Play_Door_Close
+        ObjectType: 3
+      Path: Emitters\Emitters\Play_Door_Close
+      maxAttenuation: 10
+      maxDuration: 3.349333
+      minDuration: 2.112
+    - name: Play_Door_Open
+      guid: 630807d13f12334c9a0eea7f1d68aae4
+      id: 1660008929
+      PathAndIcons:
+      - ElementName: Emitters
+        ObjectType: 12
+      - ElementName: Emitters
+        ObjectType: 4
+      - ElementName: Play_Door_Open
+        ObjectType: 3
+      Path: Emitters\Emitters\Play_Door_Open
+      maxAttenuation: 10
+      maxDuration: 3.680667
+      minDuration: 2.578333
+    - name: Play_Fire_Torch_Loop_1
+      guid: 30ce26196ca0124ca39ae88684d61987
+      id: 3232067430
+      PathAndIcons:
+      - ElementName: Emitters
+        ObjectType: 12
+      - ElementName: Emitters
+        ObjectType: 4
+      - ElementName: Torch
+        ObjectType: 4
+      - ElementName: Play_Fire_Torch_Loop_1
+        ObjectType: 3
+      Path: Emitters\Emitters\Torch\Play_Fire_Torch_Loop_1
+      maxAttenuation: 10
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Fire_Torch_Loop_4
+      guid: 20dede75bf02ac468505eb799e0eb66b
+      id: 3232067427
+      PathAndIcons:
+      - ElementName: Emitters
+        ObjectType: 12
+      - ElementName: Emitters
+        ObjectType: 4
+      - ElementName: Torch
+        ObjectType: 4
+      - ElementName: Play_Fire_Torch_Loop_4
+        ObjectType: 3
+      Path: Emitters\Emitters\Torch\Play_Fire_Torch_Loop_4
+      maxAttenuation: 10
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Fire_Torch_Loop_6
+      guid: d16ede4b46954d4c895cfe9e983a37fa
+      id: 3232067425
+      PathAndIcons:
+      - ElementName: Emitters
+        ObjectType: 12
+      - ElementName: Emitters
+        ObjectType: 4
+      - ElementName: Torch
+        ObjectType: 4
+      - ElementName: Play_Fire_Torch_Loop_6
+        ObjectType: 3
+      Path: Emitters\Emitters\Torch\Play_Fire_Torch_Loop_6
+      maxAttenuation: 10
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Fire_Torch_Loop_7
+      guid: bbfe56f726e68644a541b1d0a2c1dda0
+      id: 3232067424
+      PathAndIcons:
+      - ElementName: Emitters
+        ObjectType: 12
+      - ElementName: Emitters
+        ObjectType: 4
+      - ElementName: Torch
+        ObjectType: 4
+      - ElementName: Play_Fire_Torch_Loop_7
+        ObjectType: 3
+      Path: Emitters\Emitters\Torch\Play_Fire_Torch_Loop_7
+      maxAttenuation: 10
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Gate_Open
+      guid: 13036c2355e56946a372efd8828ea6fa
+      id: 4089264814
+      PathAndIcons:
+      - ElementName: Emitters
+        ObjectType: 12
+      - ElementName: Emitters
+        ObjectType: 4
+      - ElementName: Play_Gate_Open
+        ObjectType: 3
+      Path: Emitters\Emitters\Play_Gate_Open
+      maxAttenuation: 10
+      maxDuration: 3.006667
+      minDuration: 2.133333
+    - name: Play_Orbs
+      guid: 255becf6efe1cc4abb0473ec759b1d68
+      id: 1995773880
+      PathAndIcons:
+      - ElementName: Emitters
+        ObjectType: 12
+      - ElementName: Emitters
+        ObjectType: 4
+      - ElementName: Play_Orbs
+        ObjectType: 3
+      Path: Emitters\Emitters\Play_Orbs
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+  - PhysicalPath: Events\Enemies_Basic.wwu
+    ParentPhysicalPath: 
+    guid: 7575b5833dbd654c9399f10744d5635d
+    GuidInternal: 
+    m_lastTime: -8586269437048693294
+    List:
+    - name: Enemy_Footsteps
+      guid: a9e586664ffe08419912341dbb269855
+      id: 3217092839
+      PathAndIcons:
+      - ElementName: Enemies_Basic
+        ObjectType: 12
+      - ElementName: Basic
+        ObjectType: 4
+      - ElementName: Movements
+        ObjectType: 4
+      - ElementName: Feet
+        ObjectType: 4
+      - ElementName: Enemy_Footsteps
+        ObjectType: 3
+      Path: Enemies_Basic\Basic\Movements\Feet\Enemy_Footsteps
+      maxAttenuation: 50
+      maxDuration: 0.444121
+      minDuration: 0.229908
+    - name: Enemy_Takesdamage
+      guid: fcfdbb3a8636054f8ad116767695bc00
+      id: 4129453677
+      PathAndIcons:
+      - ElementName: Enemies_Basic
+        ObjectType: 12
+      - ElementName: Basic
+        ObjectType: 4
+      - ElementName: Health
+        ObjectType: 4
+      - ElementName: Enemy_Takesdamage
+        ObjectType: 3
+      Path: Enemies_Basic\Basic\Health\Enemy_Takesdamage
+      maxAttenuation: 50
+      maxDuration: 1.217924
+      minDuration: 0.671958
+    - name: Enemy_Unsheath_Axe
+      guid: ee0472a117e99944abd9bd387e30fa37
+      id: 1189658293
+      PathAndIcons:
+      - ElementName: Enemies_Basic
+        ObjectType: 12
+      - ElementName: Basic
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Attack
+        ObjectType: 4
+      - ElementName: Enemy_Unsheath_Axe
+        ObjectType: 3
+      Path: Enemies_Basic\Basic\Combat\Attack\Enemy_Unsheath_Axe
+      maxAttenuation: 50
+      maxDuration: 2.019083
+      minDuration: 1.153333
+    - name: Enemy_Unsheath_Sword
+      guid: fbbfb54ef1b80849bbc17b32ae239f8d
+      id: 3601846334
+      PathAndIcons:
+      - ElementName: Enemies_Basic
+        ObjectType: 12
+      - ElementName: Basic
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Attack
+        ObjectType: 4
+      - ElementName: Enemy_Unsheath_Sword
+        ObjectType: 3
+      Path: Enemies_Basic\Basic\Combat\Attack\Enemy_Unsheath_Sword
+      maxAttenuation: 50
+      maxDuration: 2.688
+      minDuration: 0.433333
+    - name: Play_EA_Axe_Whooshes
+      guid: 56ab63cee119d84485e827862029704c
+      id: 4031667926
+      PathAndIcons:
+      - ElementName: Enemies_Basic
+        ObjectType: 12
+      - ElementName: Basic
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Whoosh
+        ObjectType: 4
+      - ElementName: Play_EA_Axe_Whooshes
+        ObjectType: 3
+      Path: Enemies_Basic\Basic\Combat\Whoosh\Play_EA_Axe_Whooshes
+      maxAttenuation: 50
+      maxDuration: 0.752237
+      minDuration: 0.368943
+    - name: Play_EA_Shield_Whooshes
+      guid: e62d0a7f721be342b64bf5c530a565c8
+      id: 959190905
+      PathAndIcons:
+      - ElementName: Enemies_Basic
+        ObjectType: 12
+      - ElementName: Basic
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Whoosh
+        ObjectType: 4
+      - ElementName: Play_EA_Shield_Whooshes
+        ObjectType: 3
+      Path: Enemies_Basic\Basic\Combat\Whoosh\Play_EA_Shield_Whooshes
+      maxAttenuation: 50
+      maxDuration: 0.573333
+      minDuration: 0.458667
+    - name: Play_EA_Sword_Whooshes
+      guid: 2615d7a5efd14a45822b3c0fcaf36ba7
+      id: 1824485175
+      PathAndIcons:
+      - ElementName: Enemies_Basic
+        ObjectType: 12
+      - ElementName: Basic
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Whoosh
+        ObjectType: 4
+      - ElementName: Play_EA_Sword_Whooshes
+        ObjectType: 3
+      Path: Enemies_Basic\Basic\Combat\Whoosh\Play_EA_Sword_Whooshes
+      maxAttenuation: 50
+      maxDuration: 0.881975
+      minDuration: 0.356842
+    - name: Play_Empty_Armor_Attack_VO
+      guid: 44f4c2b06991d045800d4fad0e35317d
+      id: 2832719558
+      PathAndIcons:
+      - ElementName: Enemies_Basic
+        ObjectType: 12
+      - ElementName: Basic
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Attack
+        ObjectType: 4
+      - ElementName: Play_Empty_Armor_Attack_VO
+        ObjectType: 3
+      Path: Enemies_Basic\Basic\Combat\Attack\Play_Empty_Armor_Attack_VO
+      maxAttenuation: 50
+      maxDuration: 1.92675
+      minDuration: 1.300542
+    - name: Play_Enemies_Idle
+      guid: 848b861c8be86e48bf5fb243369c9605
+      id: 3476442239
+      PathAndIcons:
+      - ElementName: Enemies_Basic
+        ObjectType: 12
+      - ElementName: Basic
+        ObjectType: 4
+      - ElementName: Movements
+        ObjectType: 4
+      - ElementName: Play_Enemies_Idle
+        ObjectType: 3
+      Path: Enemies_Basic\Basic\Movements\Play_Enemies_Idle
+      maxAttenuation: 50
+      maxDuration: 3.9
+      minDuration: 1
+    - name: Play_Enemy_Death_Drop
+      guid: cfa6c584bd672043b05f0c82cd29a7b6
+      id: 75964331
+      PathAndIcons:
+      - ElementName: Enemies_Basic
+        ObjectType: 12
+      - ElementName: Basic
+        ObjectType: 4
+      - ElementName: Health
+        ObjectType: 4
+      - ElementName: Play_Enemy_Death_Drop
+        ObjectType: 3
+      Path: Enemies_Basic\Basic\Health\Play_Enemy_Death_Drop
+      maxAttenuation: 50
+      maxDuration: 1.580381
+      minDuration: 1.015261
+    - name: Play_Enemy_Death_Dust
+      guid: e6a9d537b0031545866000bb90a2120a
+      id: 9398304
+      PathAndIcons:
+      - ElementName: Enemies_Basic
+        ObjectType: 12
+      - ElementName: Basic
+        ObjectType: 4
+      - ElementName: Health
+        ObjectType: 4
+      - ElementName: Play_Enemy_Death_Dust
+        ObjectType: 3
+      Path: Enemies_Basic\Basic\Health\Play_Enemy_Death_Dust
+      maxAttenuation: 50
+      maxDuration: 6.132899
+      minDuration: 3.307053
+    - name: Play_Enemy_Death_Sigh
+      guid: f043d2b5ab1fc844a10b5ae719a3a5cf
+      id: 3297230113
+      PathAndIcons:
+      - ElementName: Enemies_Basic
+        ObjectType: 12
+      - ElementName: Basic
+        ObjectType: 4
+      - ElementName: Health
+        ObjectType: 4
+      - ElementName: Play_Enemy_Death_Sigh
+        ObjectType: 3
+      Path: Enemies_Basic\Basic\Health\Play_Enemy_Death_Sigh
+      maxAttenuation: 50
+      maxDuration: 2.089638
+      minDuration: 1.204511
+  - PhysicalPath: Events\Enemies_Executioner.wwu
+    ParentPhysicalPath: 
+    guid: ae6951474d2ce6498525aead51abd89c
+    GuidInternal: 
+    m_lastTime: -8586269437048623345
+    List:
+    - name: Play_Executioner_Attack_VO
+      guid: 3cf7e66978c419448fb1b4071991690f
+      id: 171253606
+      PathAndIcons:
+      - ElementName: Enemies_Executioner
+        ObjectType: 12
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Play_Executioner_Attack_VO
+        ObjectType: 3
+      Path: Enemies_Executioner\Combat\Play_Executioner_Attack_VO
+      maxAttenuation: 50
+      maxDuration: 1.872641
+      minDuration: 1.25615
+    - name: Play_Executioner_Death_BodyFall
+      guid: 6371cb235ddfa843b0cd8d3589b567ef
+      id: 2082007350
+      PathAndIcons:
+      - ElementName: Enemies_Executioner
+        ObjectType: 12
+      - ElementName: Health
+        ObjectType: 4
+      - ElementName: Play_Executioner_Death_BodyFall
+        ObjectType: 3
+      Path: Enemies_Executioner\Health\Play_Executioner_Death_BodyFall
+      maxAttenuation: 0
+      maxDuration: 1.273989
+      minDuration: 0.717213
+    - name: Play_Executioner_Death_VO
+      guid: c7afd6e7ca17a144a9ca31e3ead14bed
+      id: 2817455280
+      PathAndIcons:
+      - ElementName: Enemies_Executioner
+        ObjectType: 12
+      - ElementName: Health
+        ObjectType: 4
+      - ElementName: Play_Executioner_Death_VO
+        ObjectType: 3
+      Path: Enemies_Executioner\Health\Play_Executioner_Death_VO
+      maxAttenuation: 0
+      maxDuration: 3.065528
+      minDuration: 1.672106
+    - name: Play_Executioner_Footsteps
+      guid: 923202172f140643a93c626133175c05
+      id: 1878105105
+      PathAndIcons:
+      - ElementName: Enemies_Executioner
+        ObjectType: 12
+      - ElementName: Play_Executioner_Footsteps
+        ObjectType: 3
+      Path: Enemies_Executioner\Play_Executioner_Footsteps
+      maxAttenuation: 50
+      maxDuration: 0.611586
+      minDuration: 0.174938
+    - name: Play_Executioner_GroundSlam
+      guid: 4fe8e5ba15ff614b8d823ea89322e2c2
+      id: 171036326
+      PathAndIcons:
+      - ElementName: Enemies_Executioner
+        ObjectType: 12
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Play_Executioner_GroundSlam
+        ObjectType: 3
+      Path: Enemies_Executioner\Combat\Play_Executioner_GroundSlam
+      maxAttenuation: 50
+      maxDuration: 1.542011
+      minDuration: 1.017856
+    - name: Play_Executioner_Idle
+      guid: 30afd60288adf54dab7707ad5f7259bc
+      id: 263196514
+      PathAndIcons:
+      - ElementName: Enemies_Executioner
+        ObjectType: 12
+      - ElementName: Play_Executioner_Idle
+        ObjectType: 3
+      Path: Enemies_Executioner\Play_Executioner_Idle
+      maxAttenuation: 50
+      maxDuration: 2.377375
+      minDuration: 1
+    - name: Play_Executioner_Spin_Whoosh
+      guid: fecd04387ac4f54db0a0c679ab32b012
+      id: 3586053061
+      PathAndIcons:
+      - ElementName: Enemies_Executioner
+        ObjectType: 12
+      - ElementName: Whoosh
+        ObjectType: 4
+      - ElementName: Play_Executioner_Spin_Whoosh
+        ObjectType: 3
+      Path: Enemies_Executioner\Whoosh\Play_Executioner_Spin_Whoosh
+      maxAttenuation: 50
+      maxDuration: 2.022779
+      minDuration: 1.011595
+    - name: Play_Executioner_TakeDamage
+      guid: 421f3dacf33a0848a1f9866399143b2c
+      id: 1275716554
+      PathAndIcons:
+      - ElementName: Enemies_Executioner
+        ObjectType: 12
+      - ElementName: Health
+        ObjectType: 4
+      - ElementName: Play_Executioner_TakeDamage
+        ObjectType: 3
+      Path: Enemies_Executioner\Health\Play_Executioner_TakeDamage
+      maxAttenuation: 0
+      maxDuration: 0.660616
+      minDuration: 0.358475
+    - name: Play_Executioner_Unsheath
+      guid: 034adec8b0ea1f4aa43d5f7ba84ca9b2
+      id: 2211412174
+      PathAndIcons:
+      - ElementName: Enemies_Executioner
+        ObjectType: 12
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Play_Executioner_Unsheath
+        ObjectType: 3
+      Path: Enemies_Executioner\Combat\Play_Executioner_Unsheath
+      maxAttenuation: 50
+      maxDuration: 2.618427
+      minDuration: 1.313403
+    - name: Play_Executioner_Whoosh
+      guid: af56bc41a68caf49959a8441f2c50d86
+      id: 3089748582
+      PathAndIcons:
+      - ElementName: Enemies_Executioner
+        ObjectType: 12
+      - ElementName: Whoosh
+        ObjectType: 4
+      - ElementName: Play_Executioner_Whoosh
+        ObjectType: 3
+      Path: Enemies_Executioner\Whoosh\Play_Executioner_Whoosh
+      maxAttenuation: 50
+      maxDuration: 0.985411
+      minDuration: 0.663072
+  - PhysicalPath: Events\Enemies_King.wwu
+    ParentPhysicalPath: 
+    guid: d376cb83a7f6084b86cb4f213e81930d
+    GuidInternal: 
+    m_lastTime: -8586269316074253101
+    List:
+    - name: King_Death
+      guid: 082e2b61e31abf4c90074ca9f735a01f
+      id: 2604867915
+      PathAndIcons:
+      - ElementName: Enemies_King
+        ObjectType: 12
+      - ElementName: King
+        ObjectType: 4
+      - ElementName: King_Death
+        ObjectType: 3
+      Path: Enemies_King\King\King_Death
+      maxAttenuation: 0
+      maxDuration: 10.128
+      minDuration: 8.048
+    - name: King_TakeDamage_VO
+      guid: b966911934697141895e8f1a1e4cf9da
+      id: 2272088853
+      PathAndIcons:
+      - ElementName: Enemies_King
+        ObjectType: 12
+      - ElementName: King
+        ObjectType: 4
+      - ElementName: King_TakeDamage_VO
+        ObjectType: 3
+      Path: Enemies_King\King\King_TakeDamage_VO
+      maxAttenuation: 0
+      maxDuration: 0.972438
+      minDuration: 0.685
+    - name: Play_Arcadia_Untie_Logh
+      guid: 7fbaf5b8d88b9342a6c07a814f305253
+      id: 3175641188
+      PathAndIcons:
+      - ElementName: Enemies_King
+        ObjectType: 12
+      - ElementName: King
+        ObjectType: 4
+      - ElementName: Cinematic
+        ObjectType: 4
+      - ElementName: Logh
+        ObjectType: 4
+      - ElementName: Play_Arcadia_Untie_Logh
+        ObjectType: 3
+      Path: Enemies_King\King\Cinematic\Logh\Play_Arcadia_Untie_Logh
+      maxAttenuation: 0
+      maxDuration: 2.297458
+      minDuration: 2.297458
+    - name: Play_Arrow_Fire
+      guid: cea4a59b0c6b9c41a42fbf2f584859e4
+      id: 1558105632
+      PathAndIcons:
+      - ElementName: Enemies_King
+        ObjectType: 12
+      - ElementName: King
+        ObjectType: 4
+      - ElementName: Cinematic
+        ObjectType: 4
+      - ElementName: King
+        ObjectType: 4
+      - ElementName: Play_Arrow_Fire
+        ObjectType: 3
+      Path: Enemies_King\King\Cinematic\King\Play_Arrow_Fire
+      maxAttenuation: 0
+      maxDuration: 0.754188
+      minDuration: 0.754188
+    - name: Play_Arrow_Impact
+      guid: a7c4eb3dcb53254ead3e9fbc4a4c0e30
+      id: 2483542346
+      PathAndIcons:
+      - ElementName: Enemies_King
+        ObjectType: 12
+      - ElementName: King
+        ObjectType: 4
+      - ElementName: Cinematic
+        ObjectType: 4
+      - ElementName: Logh
+        ObjectType: 4
+      - ElementName: Play_Arrow_Impact
+        ObjectType: 3
+      Path: Enemies_King\King\Cinematic\Logh\Play_Arrow_Impact
+      maxAttenuation: 0
+      maxDuration: 1.347583
+      minDuration: 1.347583
+    - name: Play_Bow_Ready
+      guid: 308b57601295b64f9411b497d420dcd9
+      id: 315415834
+      PathAndIcons:
+      - ElementName: Enemies_King
+        ObjectType: 12
+      - ElementName: King
+        ObjectType: 4
+      - ElementName: Cinematic
+        ObjectType: 4
+      - ElementName: King
+        ObjectType: 4
+      - ElementName: Play_Bow_Ready
+        ObjectType: 3
+      Path: Enemies_King\King\Cinematic\King\Play_Bow_Ready
+      maxAttenuation: 0
+      maxDuration: 2.520437
+      minDuration: 2.520437
+    - name: Play_King_Attack
+      guid: b618b35056c9c14c895a12c1f85584dc
+      id: 1007283906
+      PathAndIcons:
+      - ElementName: Enemies_King
+        ObjectType: 12
+      - ElementName: King
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Play_King_Attack
+        ObjectType: 3
+      Path: Enemies_King\King\Combat\Play_King_Attack
+      maxAttenuation: 0
+      maxDuration: 1.5
+      minDuration: 0.723929
+    - name: Play_King_Footstep
+      guid: 85424828424c2c4c8537d0ea7bb5465e
+      id: 648278552
+      PathAndIcons:
+      - ElementName: Enemies_King
+        ObjectType: 12
+      - ElementName: King
+        ObjectType: 4
+      - ElementName: Movement
+        ObjectType: 4
+      - ElementName: Play_King_Footstep
+        ObjectType: 3
+      Path: Enemies_King\King\Movement\Play_King_Footstep
+      maxAttenuation: 0
+      maxDuration: 0.73224
+      minDuration: 0.260462
+    - name: Play_King_Spin_Attack
+      guid: 989027a7b5b5c443a147ede38f7a4ef4
+      id: 1692998821
+      PathAndIcons:
+      - ElementName: Enemies_King
+        ObjectType: 12
+      - ElementName: King
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Play_King_Spin_Attack
+        ObjectType: 3
+      Path: Enemies_King\King\Combat\Play_King_Spin_Attack
+      maxAttenuation: 0
+      maxDuration: 2.251659
+      minDuration: 1.574366
+    - name: Play_King_Stomp
+      guid: 47df6f632fc6b4478c8afecdc2d5d4bd
+      id: 2796143409
+      PathAndIcons:
+      - ElementName: Enemies_King
+        ObjectType: 12
+      - ElementName: King
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Play_King_Stomp
+        ObjectType: 3
+      Path: Enemies_King\King\Combat\Play_King_Stomp
+      maxAttenuation: 0
+      maxDuration: 1.819371
+      minDuration: 0.746796
+    - name: Play_King_Summon
+      guid: 05db27389a948c44905359103a276922
+      id: 1460020923
+      PathAndIcons:
+      - ElementName: Enemies_King
+        ObjectType: 12
+      - ElementName: King
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Play_King_Summon
+        ObjectType: 3
+      Path: Enemies_King\King\Combat\Play_King_Summon
+      maxAttenuation: 0
+      maxDuration: 6.38
+      minDuration: 6.38
+    - name: Play_King_Thrust
+      guid: 2ecdb3c753607b40bd066f72d4b7b6f1
+      id: 2512198188
+      PathAndIcons:
+      - ElementName: Enemies_King
+        ObjectType: 12
+      - ElementName: King
+        ObjectType: 4
+      - ElementName: Combat
+        ObjectType: 4
+      - ElementName: Play_King_Thrust
+        ObjectType: 3
+      Path: Enemies_King\King\Combat\Play_King_Thrust
+      maxAttenuation: 0
+      maxDuration: 2.882483
+      minDuration: 1.995613
+    - name: Play_Logh_Fall
+      guid: 8ad7b68f401de94699d930825ae55e46
+      id: 1094684692
+      PathAndIcons:
+      - ElementName: Enemies_King
+        ObjectType: 12
+      - ElementName: King
+        ObjectType: 4
+      - ElementName: Cinematic
+        ObjectType: 4
+      - ElementName: Logh
+        ObjectType: 4
+      - ElementName: Play_Logh_Fall
+        ObjectType: 3
+      Path: Enemies_King\King\Cinematic\Logh\Play_Logh_Fall
+      maxAttenuation: 0
+      maxDuration: 0.967625
+      minDuration: 0.967625
+    - name: Play_Logh_Footstep
+      guid: 6de781b86c5a3e41a0e26a21ea908ed6
+      id: 605118797
+      PathAndIcons:
+      - ElementName: Enemies_King
+        ObjectType: 12
+      - ElementName: King
+        ObjectType: 4
+      - ElementName: Cinematic
+        ObjectType: 4
+      - ElementName: Logh
+        ObjectType: 4
+      - ElementName: Play_Logh_Footstep
+        ObjectType: 3
+      Path: Enemies_King\King\Cinematic\Logh\Play_Logh_Footstep
+      maxAttenuation: 0
+      maxDuration: 0.533875
+      minDuration: 0.167437
+    - name: Play_Logh_Kneel
+      guid: c75ada7d66097541a1dfaa83473f3e2d
+      id: 2602996346
+      PathAndIcons:
+      - ElementName: Enemies_King
+        ObjectType: 12
+      - ElementName: King
+        ObjectType: 4
+      - ElementName: Cinematic
+        ObjectType: 4
+      - ElementName: Logh
+        ObjectType: 4
+      - ElementName: Play_Logh_Kneel
+        ObjectType: 3
+      Path: Enemies_King\King\Cinematic\Logh\Play_Logh_Kneel
+      maxAttenuation: 0
+      maxDuration: 1.93525
+      minDuration: 1.93525
+    - name: Play_Logh_Push_Arcadia
+      guid: 076f4e97f259ab48a271974397a3f13e
+      id: 2303761167
+      PathAndIcons:
+      - ElementName: Enemies_King
+        ObjectType: 12
+      - ElementName: King
+        ObjectType: 4
+      - ElementName: Cinematic
+        ObjectType: 4
+      - ElementName: Logh
+        ObjectType: 4
+      - ElementName: Play_Logh_Push_Arcadia
+        ObjectType: 3
+      Path: Enemies_King\King\Cinematic\Logh\Play_Logh_Push_Arcadia
+      maxAttenuation: 0
+      maxDuration: 0.638146
+      minDuration: 0.638146
+  - PhysicalPath: Events\Music.wwu
+    ParentPhysicalPath: 
+    guid: 19f927e413512f4288c67118fe2ea489
+    GuidInternal: 
+    m_lastTime: -8586269437048463430
+    List:
+    - name: Play_Battle_Sequence
+      guid: e277655156698a4081b2537082dd8afa
+      id: 3296097276
+      PathAndIcons:
+      - ElementName: Music
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: Placehoders
+        ObjectType: 4
+      - ElementName: Play_Battle_Sequence
+        ObjectType: 3
+      Path: Music\Music\Placehoders\Play_Battle_Sequence
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Boss_Music
+      guid: a3e4ae06f217c84fa1d56286f9d8b6a0
+      id: 1935154233
+      PathAndIcons:
+      - ElementName: Music
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: Play_Boss_Music
+        ObjectType: 3
+      Path: Music\Music\Play_Boss_Music
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Cinematic_Music
+      guid: d5d96c9f65a64b4cb6364f52afc73ce9
+      id: 3653066885
+      PathAndIcons:
+      - ElementName: Music
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: Play_Cinematic_Music
+        ObjectType: 3
+      Path: Music\Music\Play_Cinematic_Music
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Credit_Music
+      guid: 6e4476392a7ba947a2b92bb4fb351303
+      id: 2097415741
+      PathAndIcons:
+      - ElementName: Music
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: Play_Credit_Music
+        ObjectType: 3
+      Path: Music\Music\Play_Credit_Music
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Ethos_Music
+      guid: 1694d69044e46b4ea1ae295cb719311c
+      id: 1701886929
+      PathAndIcons:
+      - ElementName: Music
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: Play_Ethos_Music
+        ObjectType: 3
+      Path: Music\Music\Play_Ethos_Music
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Main_Theme_Prototype
+      guid: 18b6dc57371cbd4786c091dee6f18a2e
+      id: 2320957012
+      PathAndIcons:
+      - ElementName: Music
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: Placehoders
+        ObjectType: 4
+      - ElementName: Play_Main_Theme_Prototype
+        ObjectType: 3
+      Path: Music\Music\Placehoders\Play_Main_Theme_Prototype
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Menu_Music
+      guid: c236b0ef67b538488f03fbe553c6b748
+      id: 2228153899
+      PathAndIcons:
+      - ElementName: Music
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: Play_Menu_Music
+        ObjectType: 3
+      Path: Music\Music\Play_Menu_Music
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Stop_Boss_Music
+      guid: d141b0136d58ef46b052308bf2e0e5df
+      id: 1365336475
+      PathAndIcons:
+      - ElementName: Music
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: Stop_Boss_Music
+        ObjectType: 3
+      Path: Music\Music\Stop_Boss_Music
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Stop_Cinematic_Music
+      guid: 29be46215ce5c141a4099bff600769ec
+      id: 775826351
+      PathAndIcons:
+      - ElementName: Music
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: Stop_Cinematic_Music
+        ObjectType: 3
+      Path: Music\Music\Stop_Cinematic_Music
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Stop_Credit_Music
+      guid: e80adaed512ab641842e02722d683ebe
+      id: 1202908975
+      PathAndIcons:
+      - ElementName: Music
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: Stop_Credit_Music
+        ObjectType: 3
+      Path: Music\Music\Stop_Credit_Music
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Stop_Ethos_Music
+      guid: caf1aa5cb261cd42810ecbde74087f45
+      id: 2194639943
+      PathAndIcons:
+      - ElementName: Music
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: Stop_Ethos_Music
+        ObjectType: 3
+      Path: Music\Music\Stop_Ethos_Music
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Stop_Menu_Music
+      guid: 81f6fa2d034dbe4b9bd4f84adb70e625
+      id: 3945748993
+      PathAndIcons:
+      - ElementName: Music
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: Stop_Menu_Music
+        ObjectType: 3
+      Path: Music\Music\Stop_Menu_Music
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+  - PhysicalPath: Events\UI.wwu
+    ParentPhysicalPath: 
+    guid: 47cde8b13b02b144836e569f9727fbfb
+    GuidInternal: 
+    m_lastTime: -8586269437048393480
+    List:
+    - name: Menu_Deselect_Back
+      guid: 6aa74826f6be93478448cd74d32bec3d
+      id: 795279696
+      PathAndIcons:
+      - ElementName: UI
+        ObjectType: 12
+      - ElementName: Menu_Deselect_Back
+        ObjectType: 3
+      Path: UI\Menu_Deselect_Back
+      maxAttenuation: 0
+      maxDuration: 0.872733
+      minDuration: 0.691821
+    - name: Menu_Select
+      guid: f383c4d5ae36ef4182cc10354b8efb0b
+      id: 4203375351
+      PathAndIcons:
+      - ElementName: UI
+        ObjectType: 12
+      - ElementName: Menu_Select
+        ObjectType: 3
+      Path: UI\Menu_Select
+      maxAttenuation: 0
+      maxDuration: 0.80897
+      minDuration: 0.532961
+    - name: Play_Menu_UI_Back
+      guid: e49b67cdcf243c4d8234dbcecbaf21b3
+      id: 975653578
+      PathAndIcons:
+      - ElementName: UI
+        ObjectType: 12
+      - ElementName: Play_Menu_UI_Back
+        ObjectType: 3
+      Path: UI\Play_Menu_UI_Back
+      maxAttenuation: 0
+      maxDuration: 0.80897
+      minDuration: 0.532961
+    - name: Play_Menu_UI_Hover
+      guid: eadd69ea090fa34c890992f181eb23cd
+      id: 2344085587
+      PathAndIcons:
+      - ElementName: UI
+        ObjectType: 12
+      - ElementName: Play_Menu_UI_Hover
+        ObjectType: 3
+      Path: UI\Play_Menu_UI_Hover
+      maxAttenuation: 0
+      maxDuration: 0.144
+      minDuration: 0.144
+    - name: Play_Menu_UI_Quit
+      guid: 707538cb9cdd0b47bfe100cae842a1b4
+      id: 152688710
+      PathAndIcons:
+      - ElementName: UI
+        ObjectType: 12
+      - ElementName: Play_Menu_UI_Quit
+        ObjectType: 3
+      Path: UI\Play_Menu_UI_Quit
+      maxAttenuation: 0
+      maxDuration: 0.203728
+      minDuration: 0.203728
+    - name: Play_Menu_UI_Select
+      guid: 1747640206bbaf4e8844f45d4f4ef855
+      id: 1344769267
+      PathAndIcons:
+      - ElementName: UI
+        ObjectType: 12
+      - ElementName: Play_Menu_UI_Select
+        ObjectType: 3
+      Path: UI\Play_Menu_UI_Select
+      maxAttenuation: 0
+      maxDuration: 0.872733
+      minDuration: 0.691821
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 8d4fe730b2dfe94c8dc76806b113b161
+    GuidInternal: 
+    m_lastTime: -8586290341199359982
+    List: []
+  - PhysicalPath: Game Parameters\Ethos.wwu
+    ParentPhysicalPath: 
+    guid: d55f1728670d28498b1f16209d038a84
+    GuidInternal: 
+    m_lastTime: -8586269437048323517
+    List:
+    - name: arcadia_health
+      guid: 2ddc628143a01547abe9348b3bc8e943
+      id: 278748867
+      PathAndIcons:
+      - ElementName: Ethos
+        ObjectType: 12
+      - ElementName: arcadia_health
+        ObjectType: 13
+      Path: Ethos\arcadia_health
+    - name: king_health
+      guid: 62b4f4d348257c42be1d9a799ff7016a
+      id: 3341335609
+      PathAndIcons:
+      - ElementName: Ethos
+        ObjectType: 12
+      - ElementName: king_health
+        ObjectType: 13
+      Path: Ethos\king_health
+  - PhysicalPath: Game Parameters\Factory SoundSeed Air Game Syncs.wwu
+    ParentPhysicalPath: 
+    guid: 5577163b42fb8b4598bf96f557afb3b9
+    GuidInternal: 
+    m_lastTime: -8586290341199230060
+    List:
+    - name: SS_Air_Fear
+      guid: 59062ef746431c4ea1b1dab46a05101e
+      id: 1351367891
+      PathAndIcons:
+      - ElementName: Factory SoundSeed Air Game Syncs
+        ObjectType: 12
+      - ElementName: SS_Air_Fear
+        ObjectType: 13
+      Path: Factory SoundSeed Air Game Syncs\SS_Air_Fear
+    - name: SS_Air_Freefall
+      guid: 37fe2d2f9e4f944d83d853cca39781ad
+      id: 3002758120
+      PathAndIcons:
+      - ElementName: Factory SoundSeed Air Game Syncs
+        ObjectType: 12
+      - ElementName: SS_Air_Freefall
+        ObjectType: 13
+      Path: Factory SoundSeed Air Game Syncs\SS_Air_Freefall
+    - name: SS_Air_Fury
+      guid: dc79aea23acaba4696529986c322a87b
+      id: 1029930033
+      PathAndIcons:
+      - ElementName: Factory SoundSeed Air Game Syncs
+        ObjectType: 12
+      - ElementName: SS_Air_Fury
+        ObjectType: 13
+      Path: Factory SoundSeed Air Game Syncs\SS_Air_Fury
+    - name: SS_Air_Month
+      guid: 45b4e209a3c47f44b3ca818a1d925ef7
+      id: 2648548617
+      PathAndIcons:
+      - ElementName: Factory SoundSeed Air Game Syncs
+        ObjectType: 12
+      - ElementName: SS_Air_Month
+        ObjectType: 13
+      Path: Factory SoundSeed Air Game Syncs\SS_Air_Month
+    - name: SS_Air_Presence
+      guid: 1a81b7e32f7b0f49b44f5fe51b468041
+      id: 3847924954
+      PathAndIcons:
+      - ElementName: Factory SoundSeed Air Game Syncs
+        ObjectType: 12
+      - ElementName: SS_Air_Presence
+        ObjectType: 13
+      Path: Factory SoundSeed Air Game Syncs\SS_Air_Presence
+    - name: SS_Air_RPM
+      guid: ab9048a3d5b92645a64d5290c43ef2dc
+      id: 822163944
+      PathAndIcons:
+      - ElementName: Factory SoundSeed Air Game Syncs
+        ObjectType: 12
+      - ElementName: SS_Air_RPM
+        ObjectType: 13
+      Path: Factory SoundSeed Air Game Syncs\SS_Air_RPM
+    - name: SS_Air_Size
+      guid: efeb291393a12e47a38c64668b494879
+      id: 3074696722
+      PathAndIcons:
+      - ElementName: Factory SoundSeed Air Game Syncs
+        ObjectType: 12
+      - ElementName: SS_Air_Size
+        ObjectType: 13
+      Path: Factory SoundSeed Air Game Syncs\SS_Air_Size
+    - name: SS_Air_Storm
+      guid: db8c3fe9d1063747acaf7cd44bbed783
+      id: 3715662592
+      PathAndIcons:
+      - ElementName: Factory SoundSeed Air Game Syncs
+        ObjectType: 12
+      - ElementName: SS_Air_Storm
+        ObjectType: 13
+      Path: Factory SoundSeed Air Game Syncs\SS_Air_Storm
+    - name: SS_Air_TimeOfDay
+      guid: 2ca76f537e8c8b4cae03ef34fdadc314
+      id: 3203397129
+      PathAndIcons:
+      - ElementName: Factory SoundSeed Air Game Syncs
+        ObjectType: 12
+      - ElementName: SS_Air_TimeOfDay
+        ObjectType: 13
+      Path: Factory SoundSeed Air Game Syncs\SS_Air_TimeOfDay
+    - name: SS_Air_Turbulence
+      guid: 197ba8edaa73a0409f192073606db710
+      id: 4160247818
+      PathAndIcons:
+      - ElementName: Factory SoundSeed Air Game Syncs
+        ObjectType: 12
+      - ElementName: SS_Air_Turbulence
+        ObjectType: 13
+      Path: Factory SoundSeed Air Game Syncs\SS_Air_Turbulence
+  - PhysicalPath: Game Parameters\options.wwu
+    ParentPhysicalPath: 
+    guid: 858bbfb69dd4ab4ea01fb6a94dd82f59
+    GuidInternal: 
+    m_lastTime: -8586269437048263553
+    List:
+    - name: options_dial_vol
+      guid: a39f7e55d7836f469306e22d10fce8db
+      id: 1417995260
+      PathAndIcons:
+      - ElementName: options
+        ObjectType: 12
+      - ElementName: options_dial_vol
+        ObjectType: 13
+      Path: options\options_dial_vol
+    - name: options_master_vol
+      guid: 73bc5f864b2397488e906615316f7382
+      id: 2967281680
+      PathAndIcons:
+      - ElementName: options
+        ObjectType: 12
+      - ElementName: options_master_vol
+        ObjectType: 13
+      Path: options\options_master_vol
+    - name: options_mus_vol
+      guid: a4c691ee3a34da498cd2f577c65e17c1
+      id: 3803303607
+      PathAndIcons:
+      - ElementName: options
+        ObjectType: 12
+      - ElementName: options_mus_vol
+        ObjectType: 13
+      Path: options\options_mus_vol
+    - name: options_sfx_vol
+      guid: de372fd7713c114ea6746228033d736e
+      id: 1515562895
+      PathAndIcons:
+      - ElementName: options
+        ObjectType: 12
+      - ElementName: options_sfx_vol
+        ObjectType: 13
+      Path: options\options_sfx_vol
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 4da5a77448868e4eb933772a8f3b52ec
+    GuidInternal: 
+    m_lastTime: -8586290341119131458
+    List: []
+  - PhysicalPath: States\Ethos.wwu
+    ParentPhysicalPath: 
+    guid: 4d9daab76c872b4b9710274d5f2b8d4b
+    GuidInternal: 
+    m_lastTime: -8586269436825101036
+    List:
+    - name: Arcadia_Possession
+      guid: e02421b38d87da49b248b5451ff10a32
+      id: 504046003
+      PathAndIcons:
+      - ElementName: Ethos
+        ObjectType: 12
+      - ElementName: Player
+        ObjectType: 4
+      - ElementName: Arcadia_Possession
+        ObjectType: 9
+      Path: Ethos\Player\Arcadia_Possession
+      values:
+      - name: None
+        guid: 0dfdd8093866c94f98fcb0130df9ec71
+        id: 748895195
+        PathAndIcons:
+        - ElementName: None
+          ObjectType: 8
+      - name: Normal
+        guid: d82b86bb4f3cfc4aa50c154f5d15267e
+        id: 1160234136
+        PathAndIcons:
+        - ElementName: Normal
+          ObjectType: 8
+      - name: Possession
+        guid: 41f06712cd15d042a49ed6aeafa74679
+        id: 3347766931
+        PathAndIcons:
+        - ElementName: Possession
+          ObjectType: 8
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: game_intensity
+      guid: aedd203f8a53a74a8be619929c04b67f
+      id: 3469768597
+      PathAndIcons:
+      - ElementName: Ethos
+        ObjectType: 12
+      - ElementName: game_intensity
+        ObjectType: 9
+      Path: Ethos\game_intensity
+      values:
+      - name: battle
+        guid: 083a269f65a36845b55ffd43c2148081
+        id: 2937832959
+        PathAndIcons:
+        - ElementName: battle
+          ObjectType: 8
+      - name: explore
+        guid: 9c909449df182f48a1209f78052cfd3b
+        id: 579523862
+        PathAndIcons:
+        - ElementName: explore
+          ObjectType: 8
+      - name: None
+        guid: 3cb12a2396380249b788bc5e2f7ceac1
+        id: 748895195
+        PathAndIcons:
+        - ElementName: None
+          ObjectType: 8
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: game_state
+      guid: e584eca5c3b5a44bb3fbfe226c9f3377
+      id: 766723505
+      PathAndIcons:
+      - ElementName: Ethos
+        ObjectType: 12
+      - ElementName: game_state
+        ObjectType: 9
+      Path: Ethos\game_state
+      values:
+      - name: in_game
+        guid: 9993f568f968bd41885ee20c1222ac6b
+        id: 2967546505
+        PathAndIcons:
+        - ElementName: in_game
+          ObjectType: 8
+      - name: None
+        guid: 3ff04c40f9ff1c499f2b65ce20cbf51e
+        id: 748895195
+        PathAndIcons:
+        - ElementName: None
+          ObjectType: 8
+      - name: paused
+        guid: e88da54a7d17604e9cf86d9d4f9043e0
+        id: 319258907
+        PathAndIcons:
+        - ElementName: paused
+          ObjectType: 8
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 30c31d9672712d4a9c05c28a07b4687a
+    GuidInternal: 
+    m_lastTime: -8586290341119011536
+    List: []
+  - PhysicalPath: Switches\Ethos.wwu
+    ParentPhysicalPath: 
+    guid: fc4f585c5f063b4a95ff33b71047c87a
+    GuidInternal: 
+    m_lastTime: -8586269316072346555
+    List:
+    - name: ambience_zones
+      guid: 996d876d2566cb41927a2ee46cfaf1be
+      id: 960201001
+      PathAndIcons:
+      - ElementName: Ethos
+        ObjectType: 12
+      - ElementName: ambience_zones
+        ObjectType: 11
+      Path: Ethos\ambience_zones
+      values:
+      - name: armory
+        guid: b15c85a621a4dd4b9b8988d3761755e5
+        id: 4101540847
+        PathAndIcons:
+        - ElementName: armory
+          ObjectType: 10
+      - name: armory_basement
+        guid: f6ecb8f6085bb24d8d296fd96474d1c2
+        id: 3076574549
+        PathAndIcons:
+        - ElementName: armory_basement
+          ObjectType: 10
+      - name: dungeon
+        guid: 6cccaf0d8aa8254a8faf612060e8ebd0
+        id: 608898761
+        PathAndIcons:
+        - ElementName: dungeon
+          ObjectType: 10
+      - name: kings_chamber
+        guid: 1912beb9ebeac94488f7a58c1a0f15ab
+        id: 1587431824
+        PathAndIcons:
+        - ElementName: kings_chamber
+          ObjectType: 10
+      - name: outside
+        guid: f29c8caf7af43a48a96c59eb7661f407
+        id: 438105790
+        PathAndIcons:
+        - ElementName: outside
+          ObjectType: 10
+      - name: tower_room
+        guid: 4c32c914552d5644847b9d517d4220e4
+        id: 2674722322
+        PathAndIcons:
+        - ElementName: tower_room
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: arcadia_health
+      guid: 21a9b78207a47f40b2d32a2eb502c60b
+      id: 278748867
+      PathAndIcons:
+      - ElementName: Ethos
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: arcadia_health
+        ObjectType: 11
+      Path: Ethos\Arcadia\arcadia_health
+      values:
+      - name: death
+        guid: 838b6e84a6b3af4bb63bf1377cfd53f1
+        id: 779278001
+        PathAndIcons:
+        - ElementName: death
+          ObjectType: 10
+      - name: full
+        guid: 83083a538af55f4ca7ef31f4aa57886e
+        id: 2510516222
+        PathAndIcons:
+        - ElementName: full
+          ObjectType: 10
+      - name: low
+        guid: c5399e8b2e4abe4399e9477a04a799b5
+        id: 545371365
+        PathAndIcons:
+        - ElementName: low
+          ObjectType: 10
+      - name: mid
+        guid: 94bfb4aacbee7f4b9bbfb8b1e6f35b42
+        id: 1182670505
+        PathAndIcons:
+        - ElementName: mid
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: attack_type
+      guid: 1a9ff770bdefe244a1af981d480ef452
+      id: 2578485808
+      PathAndIcons:
+      - ElementName: Ethos
+        ObjectType: 12
+      - ElementName: attack_type
+        ObjectType: 11
+      Path: Ethos\attack_type
+      values:
+      - name: basic
+        guid: e2058cfbf50ee745a15ca6dc23e96063
+        id: 3340296461
+        PathAndIcons:
+        - ElementName: basic
+          ObjectType: 10
+      - name: special
+        guid: fe63f463134871489dab4fcffeb03125
+        id: 3064974266
+        PathAndIcons:
+        - ElementName: special
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: directions
+      guid: 118ff755140e854e97f46aa601c5d3f6
+      id: 2595210219
+      PathAndIcons:
+      - ElementName: Ethos
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: movements
+        ObjectType: 4
+      - ElementName: directions
+        ObjectType: 11
+      Path: Ethos\Arcadia\movements\directions
+      values:
+      - name: backward
+        guid: 8050f098f058694e97431c516f445ccf
+        id: 2669077622
+        PathAndIcons:
+        - ElementName: backward
+          ObjectType: 10
+      - name: forward
+        guid: 0ca715c772482641bbbe7cc22e40618e
+        id: 1164125444
+        PathAndIcons:
+        - ElementName: forward
+          ObjectType: 10
+      - name: left
+        guid: 93f0c5a2208d864880b13c95dc002ecb
+        id: 4109362
+        PathAndIcons:
+        - ElementName: left
+          ObjectType: 10
+      - name: right
+        guid: b8f55f102c5f8a4e9463f5857943e9f9
+        id: 3893817417
+        PathAndIcons:
+        - ElementName: right
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: distance
+      guid: 6402853e9e9c66449f37fbb0c367e51f
+      id: 1240670792
+      PathAndIcons:
+      - ElementName: Ethos
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: movements
+        ObjectType: 4
+      - ElementName: distance
+        ObjectType: 11
+      Path: Ethos\Arcadia\movements\distance
+      values:
+      - name: long
+        guid: fa5180bd1c06f745b7164538cb3d4038
+        id: 674228435
+        PathAndIcons:
+        - ElementName: long
+          ObjectType: 10
+      - name: short
+        guid: 961b3f42f979c846ad003ec3617dfc4d
+        id: 2585211341
+        PathAndIcons:
+        - ElementName: short
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: enemy_type
+      guid: f9329045d8374943bb147faee95a85be
+      id: 2844892178
+      PathAndIcons:
+      - ElementName: Ethos
+        ObjectType: 12
+      - ElementName: enemy_type
+        ObjectType: 11
+      Path: Ethos\enemy_type
+      values:
+      - name: basic_axe
+        guid: 6a232ad4de9eaa42b22598eb08c29a60
+        id: 1512573948
+        PathAndIcons:
+        - ElementName: basic_axe
+          ObjectType: 10
+      - name: basic_shield
+        guid: 2597003a01d96342a36a3128584121d7
+        id: 3713039003
+        PathAndIcons:
+        - ElementName: basic_shield
+          ObjectType: 10
+      - name: basic_sword
+        guid: 2cca349a088aa54f8c5a1847521801c2
+        id: 4231919179
+        PathAndIcons:
+        - ElementName: basic_sword
+          ObjectType: 10
+      - name: executioner
+        guid: 182a08d747c3d443a6e0cb6688696f75
+        id: 2539170948
+        PathAndIcons:
+        - ElementName: executioner
+          ObjectType: 10
+      - name: king
+        guid: e5d9bf5732e5d34ba6b80052f8156375
+        id: 1997285300
+        PathAndIcons:
+        - ElementName: king
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: item_type
+      guid: 8a0ddb5d1cfdb84dbce8749b78af5ab5
+      id: 1281648863
+      PathAndIcons:
+      - ElementName: Ethos
+        ObjectType: 12
+      - ElementName: item_type
+        ObjectType: 11
+      Path: Ethos\item_type
+      values:
+      - name: orb
+        guid: 4cadb78ca8d0c94e88efe49a6946f5a9
+        id: 595159780
+        PathAndIcons:
+        - ElementName: orb
+          ObjectType: 10
+      - name: potion
+        guid: d65b5d65ed7e6a458664c491325264f9
+        id: 4272075576
+        PathAndIcons:
+        - ElementName: potion
+          ObjectType: 10
+      - name: scroll
+        guid: ef49506279a9b3438b5d932e69d64302
+        id: 454121546
+        PathAndIcons:
+        - ElementName: scroll
+          ObjectType: 10
+      - name: sword
+        guid: 6dacdcad2c9c344f80f7d20c0b2979ca
+        id: 2454616260
+        PathAndIcons:
+        - ElementName: sword
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: king_phase
+      guid: b8b6fc5499c5724383045ef93882a63e
+      id: 3591764420
+      PathAndIcons:
+      - ElementName: Ethos
+        ObjectType: 12
+      - ElementName: king_phase
+        ObjectType: 11
+      Path: Ethos\king_phase
+      values:
+      - name: death
+        guid: 042432661a493e408ddb38cc1e6dcdcb
+        id: 779278001
+        PathAndIcons:
+        - ElementName: death
+          ObjectType: 10
+      - name: phase_0
+        guid: b61080de2e95a6438e67616f540b1e8d
+        id: 1622949423
+        PathAndIcons:
+        - ElementName: phase_0
+          ObjectType: 10
+      - name: phase_1
+        guid: 2d199bb7a18be04d88a986e4fab465b5
+        id: 1622949422
+        PathAndIcons:
+        - ElementName: phase_1
+          ObjectType: 10
+      - name: phase_2
+        guid: 5aed9c9423963e489382cc294fe462bb
+        id: 1622949421
+        PathAndIcons:
+        - ElementName: phase_2
+          ObjectType: 10
+      - name: phase_3
+        guid: 7a91c97e8a5d504d90161174c6bb6131
+        id: 1622949420
+        PathAndIcons:
+        - ElementName: phase_3
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: Logh_Advice
+      guid: f0940281a3a19c41b3511c5417c9a74d
+      id: 3810127998
+      PathAndIcons:
+      - ElementName: Ethos
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: Logh_Advice
+        ObjectType: 11
+      Path: Ethos\Arcadia\Logh_Advice
+      values:
+      - name: No
+        guid: 131a3e88612016468e084795b438e10c
+        id: 1668749452
+        PathAndIcons:
+        - ElementName: No
+          ObjectType: 10
+      - name: Yes
+        guid: 8272334761cd864992bfe7a6d6e0a94c
+        id: 979470758
+        PathAndIcons:
+        - ElementName: Yes
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: player_attack_direction
+      guid: dacbc2e9656c03409624a9c13c4a3af1
+      id: 2239803999
+      PathAndIcons:
+      - ElementName: Ethos
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: attack
+        ObjectType: 4
+      - ElementName: player_attack_direction
+        ObjectType: 11
+      Path: Ethos\Arcadia\attack\player_attack_direction
+      values:
+      - name: left
+        guid: ba71cb650a1802409037a9640ff9ddd1
+        id: 4109362
+        PathAndIcons:
+        - ElementName: left
+          ObjectType: 10
+      - name: right
+        guid: 6dbbc3ee2d7cc94a8f5aebf267b38d06
+        id: 3893817417
+        PathAndIcons:
+        - ElementName: right
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: player_attack_type
+      guid: 348a249be55ced47ab90156011ce0865
+      id: 2477214428
+      PathAndIcons:
+      - ElementName: Ethos
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: attack
+        ObjectType: 4
+      - ElementName: player_attack_type
+        ObjectType: 11
+      Path: Ethos\Arcadia\attack\player_attack_type
+      values:
+      - name: enhanced
+        guid: b9f52fd8d2dff1438f2abccb4557a0bf
+        id: 1822540183
+        PathAndIcons:
+        - ElementName: enhanced
+          ObjectType: 10
+      - name: normal
+        guid: f966cc51cdd406438b526d495839e50a
+        id: 1160234136
+        PathAndIcons:
+        - ElementName: normal
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: speed
+      guid: 8acc05f5436887408c61a335a4f99729
+      id: 640949982
+      PathAndIcons:
+      - ElementName: Ethos
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: movements
+        ObjectType: 4
+      - ElementName: speed
+        ObjectType: 11
+      Path: Ethos\Arcadia\movements\speed
+      values:
+      - name: run
+        guid: a209df130c29fe46841a2ad2598e780c
+        id: 712161704
+        PathAndIcons:
+        - ElementName: run
+          ObjectType: 10
+      - name: walk
+        guid: 0a85ddae76acc44290034c34ecf1f245
+        id: 2108779966
+        PathAndIcons:
+        - ElementName: walk
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: surfaces
+      guid: c5be1aa7adf06949bb6156224c4713b2
+      id: 3714303081
+      PathAndIcons:
+      - ElementName: Ethos
+        ObjectType: 12
+      - ElementName: surfaces
+        ObjectType: 11
+      Path: Ethos\surfaces
+      values:
+      - name: dirt
+        guid: a4f793e464d1434ab3a9c54b3c48da0b
+        id: 2195636714
+        PathAndIcons:
+        - ElementName: dirt
+          ObjectType: 10
+      - name: stone
+        guid: f8536683a348c843aaf5e44d40c816a5
+        id: 1216965916
+        PathAndIcons:
+        - ElementName: stone
+          ObjectType: 10
+      - name: wood
+        guid: 49a7cb252739ba4287ecef5178744a24
+        id: 2058049674
+        PathAndIcons:
+        - ElementName: wood
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: weapon
+      guid: 3e2f69fd61c53c4489eb0d6ce1f4c782
+      id: 3893417221
+      PathAndIcons:
+      - ElementName: Ethos
+        ObjectType: 12
+      - ElementName: Arcadia
+        ObjectType: 4
+      - ElementName: attack
+        ObjectType: 4
+      - ElementName: weapon
+        ObjectType: 11
+      Path: Ethos\Arcadia\attack\weapon
+      values:
+      - name: in
+        guid: e8cb35674bea94458535778f8f0a8fc9
+        id: 1752637612
+        PathAndIcons:
+        - ElementName: in
+          ObjectType: 10
+      - name: out
+        guid: 0af5624839599347ba34051378f1820d
+        id: 645492555
+        PathAndIcons:
+        - ElementName: out
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: c3a9da81497b574eb1d985148f857f3b
+    GuidInternal: 
+    m_lastTime: -8586290341118831631
+    List: []
+  ExpandedItems:
+  - /EthosBindedLink
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 

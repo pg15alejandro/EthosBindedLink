@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73e73e58416d4ea45b473b4e8599eea3, type: 3}
+  m_Name: 6B00B5D3-15F7-4D75-8AA4-56FA60DC0B0A
+  m_EditorClassIdentifier: 
+  objectName: F_Basement_Hallway
+  id: 4265980988
+  guid: 6B00B5D3-15F7-4D75-8AA4-56FA60DC0B0A
